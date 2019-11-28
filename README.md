@@ -31,7 +31,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://six.nsw.gov.au/">GSNSW – SIX: Spatial Information Exchange</A><br>
 <A HREF="https://www.seed.nsw.gov.au/">GSNSW – SEED: Sharing and Enabling Environmental Data</A><br>
 <A HREF="http://icsm.gov.au/">ICSM – Intergovernmental Committee on Surveying and Mapping</A><br>
-<A HREF="http://www.onegeology.org/use/home.html">OneGeology – How to use</A><br>
+<A HREF="http://www.onegeology.org/use/home.html">OneGeology – Geoscience data</A><br>
 <A HREF="http://www.metoc.gov.au/">Meteorology &amp; Oceanograhy – Department of Defence (Navy)</A><br>
 
 <H2 FOLDED>GLOBAL</H2>
