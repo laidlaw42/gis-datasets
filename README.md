@@ -71,5 +71,4 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 <H3 FOLDED>Other</H3>
 <A HREF="https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md">GIS roadmap</A><br>
-<A HREF="https://www.youtube.com/channel/UCiZVuWsVsEG1BhJW1_YwI0A">Karen Joyce - YouTube</A><br>
-<A HREF="https://geo-python.github.io/site/">Geo-Python</A>   Geo-centric Python programming course (free).
+<A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (Free geo-centric Python programming course)
