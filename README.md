@@ -22,6 +22,9 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://www.ga.gov.au/data-pubs">Geoscience Australia – Data &amp; Publications</A><br>
 <A HREF="https://hotspots.dea.ga.gov.au/">Geoscience Australia – Digital Earth Australia Hotspots</A><br>
 <A HREF="https://earthquakes.ga.gov.au/">Geoscience Australia – Earthquakes</A><br>
+<A HREF="http://maps.ga.gov.au/interactive-maps/#/">Geoscience Australia – Interactive Maps</A><br>
+<A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Geoscience Australia – Product catalogue (eCat)</A><br>
+<A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Geoscience Australia – Stratigraphic Units</A><br>
 <A HREF="https://search.geoscience.nsw.gov.au/">GSNSW – DIGS: Digital Imaging of Geological System</A><br>
 <A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library">GSNSW – Drillcore Library (Londonderry)</A><br>
 <A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services">GSNSW – Geoscience Services</A><br>
@@ -30,6 +33,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://minview.geoscience.nsw.gov.au/">GSNSW – MinView</A><br>
 <A HREF="https://six.nsw.gov.au/">GSNSW – SIX: Spatial Information Exchange</A><br>
 <A HREF="https://www.seed.nsw.gov.au/">GSNSW – SEED: Sharing and Enabling Environmental Data</A><br>
+<A HREF="https://map.sarig.sa.gov.au/">GSSA – SARIG: South Australian Resource Information Gateway</A><br>
 <A HREF="http://icsm.gov.au/">ICSM – Intergovernmental Committee on Surveying and Mapping</A><br>
 <A HREF="http://www.onegeology.org/use/home.html">OneGeology – Geoscience data</A><br>
 <A HREF="http://www.metoc.gov.au/">Meteorology &amp; Oceanograhy – Department of Defence (Navy)</A><br>
