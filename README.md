@@ -79,7 +79,7 @@ Mostly official ArcGIS stuff because ESRI are pretty thorough with their documen
 <A HREF="https://www.reddit.com/r/qgis/">QGIS Subreddit</A><br>
 
 <H3 FOLDED>Other</H3>
-<A HREF="https://gis.stackexchange.com/"><b>GIS StackExchange<b/></A> (for all your troubleshooting needs)<br>
+<A HREF="https://gis.stackexchange.com/">GIS StackExchange</A> (for all your troubleshooting needs)<br>
 <A HREF="https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md">GIS roadmap</A><br>
 <A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (Free geo-centric Python programming course)<br>
 <A HREF="https://www.reddit.com/r/gis/">GIS subreddit</A><br>
