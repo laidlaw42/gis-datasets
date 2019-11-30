@@ -62,7 +62,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H2 FOLDED>Tutorials</H2>
 
 <H3 FOLDED>ESRI ArcGIS</H3>
-Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.
+Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.<br>
 <A HREF="https://geonet.esri.com"><b>ESRI Geonet Forums</b></A><br>
 <A HREF="https://learn.arcgis.com/en/arcgis-book/#home-overview">The ArcGIS Book</A><br>
 <A HREF="https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm">Get Started with ArcMap</A><br>
