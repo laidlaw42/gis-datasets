@@ -61,18 +61,26 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 <H2 FOLDED>Tutorials</H2>
 
-<H3 FOLDED>ArcGIS</H3>
+<H3 FOLDED>ESRI ArcGIS</H3>
+Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.
+<A HREF="https://geonet.esri.com"><b>ESRI Geonet Forums</b></A><br>
 <A HREF="https://learn.arcgis.com/en/arcgis-book/#home-overview">The ArcGIS Book</A><br>
 <A HREF="https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm">Get Started with ArcMap</A><br>
 <A HREF="https://learn.arcgis.com/en/projects/get-started-with-arcgis-pro/lessons/explore-the-study-area.htm">Get Started with ArcGIS Pro</A><br>
 <A HREF="https://learn.arcgis.com/en/">Learn ArcGIS</A><br>
 <A HREF="https://pro.arcgis.com/en/pro-app/get-started/pro-quickstart-tutorials.htm">Quick Start</A><br>
+<A HREF="https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb">ArcGIS Official Yotube Tutorials</A><br>
+<A HREF="https://www.reddit.com/r/arcgis/">ArcGIS Subreddit</A><br>
 
 <H3 FOLDED>QGIS</H3>
 <A HREF="https://docs.qgis.org/3.4/en/docs/training_manual/index.html">QGIS – Manual</A><br>
 <A HREF="https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw">Open Source Options</A><br>
 <A HREF="https://www.youtube.com/watch?v=j3cjMXYa63I">Spatial Exploration – Slope &amp; Aspect modelling</A><br>
+<A HREF="https://www.reddit.com/r/qgis/">QGIS Subreddit</A><br>
 
 <H3 FOLDED>Other</H3>
+<A HREF="https://gis.stackexchange.com/"><b>GIS StackExchange<b/></A> For all your troubleshooting needs<br>
 <A HREF="https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md">GIS roadmap</A><br>
 <A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (Free geo-centric Python programming course)
+<A HREF="https://www.reddit.com/r/gis/">GIS subreddit</A><br>
+<A HREF="https://www.reddit.com/r/gis/wiki/index">GIS subreddit wiki</A><br>
