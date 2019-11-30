@@ -62,7 +62,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H2 FOLDED>Tutorials</H2>
 
 <H3 FOLDED>ESRI ArcGIS</H3>
-Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.<br>
+Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.<br><br>
 <A HREF="https://geonet.esri.com"><b>ESRI Geonet Forums</b></A><br>
 <A HREF="https://learn.arcgis.com/en/arcgis-book/#home-overview">The ArcGIS Book</A><br>
 <A HREF="https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm">Get Started with ArcMap</A><br>
@@ -79,8 +79,8 @@ Mostly official ArcGIS stuff because ESRI are pretty thorough with their documen
 <A HREF="https://www.reddit.com/r/qgis/">QGIS Subreddit</A><br>
 
 <H3 FOLDED>Other</H3>
-<A HREF="https://gis.stackexchange.com/"><b>GIS StackExchange<b/></A> For all your troubleshooting needs<br>
+<A HREF="https://gis.stackexchange.com/"><b>GIS StackExchange<b/></A> (for all your troubleshooting needs)<br>
 <A HREF="https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md">GIS roadmap</A><br>
-<A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (Free geo-centric Python programming course)
+<A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (Free geo-centric Python programming course)<br>
 <A HREF="https://www.reddit.com/r/gis/">GIS subreddit</A><br>
 <A HREF="https://www.reddit.com/r/gis/wiki/index">GIS subreddit wiki</A><br>
