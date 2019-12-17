@@ -18,17 +18,18 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://research.csiro.au/thespectralgeologist/">CSIRO – The Spectral Geologist</A><br>
 
 <H4> Geoscience Australia </H4>
-<A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">Geoscience Australia – AusAEM</A><br>
-<A HREF="http://www.geoscience.gov.au/">Geoscience Australia – AUSGIN: Australian Geoscience Information Network</A><br>
-<A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Geoscience Australia – Bathymetry</A><br>
-<A HREF="https://www.ga.gov.au/data-pubs">Geoscience Australia – Data &amp; Publications</A><br>
-<A HREF="https://hotspots.dea.ga.gov.au/">Geoscience Australia – Digital Earth Australia Hotspots</A><br>
-<A HREF="https://earthquakes.ga.gov.au/">Geoscience Australia – Earthquakes</A><br>
-<A HREF="http://maps.ga.gov.au/interactive-maps/#/">Geoscience Australia – Interactive Maps</A><br>
-<A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Geoscience Australia – Product catalogue (eCat)</A><br>
-<A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Geoscience Australia – Stratigraphic Units</A><br>
 
-<H3> Geological Survey of NSW </H3>
+<A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">AusAEM</A><br>
+<A HREF="http://www.geoscience.gov.au/">AUSGIN: Australian Geoscience Information Network</A><br>
+<A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Bathymetry</A><br>
+<A HREF="https://www.ga.gov.au/data-pubs">Data &amp; Publications</A><br>
+<A HREF="https://hotspots.dea.ga.gov.au/">Digital Earth Australia Hotspots</A><br>
+<A HREF="https://earthquakes.ga.gov.au/">Earthquakes</A><br>
+<A HREF="http://maps.ga.gov.au/interactive-maps/#/">Interactive Maps</A><br>
+<A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Product catalogue (eCat)</A><br>
+<A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Stratigraphic Units</A><br>
+
+<H4> Geological Survey of NSW </H4>
 
 <A HREF="https://search.geoscience.nsw.gov.au/">GSNSW – DIGS: Digital Imaging of Geological System</A><br>
 <A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library">GSNSW – Drillcore Library (Londonderry)</A><br>
