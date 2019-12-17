@@ -16,6 +16,8 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://www.asris.csiro.au/">CSIRO – Soil ASRIS</A><br>
 <A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">CSIRO – Soil and Landscape Grid of Australia</A><br>
 <A HREF="https://research.csiro.au/thespectralgeologist/">CSIRO – The Spectral Geologist</A><br>
+
+<H3> Geoscience Australia </H3>
 <A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">Geoscience Australia – AusAEM</A><br>
 <A HREF="http://www.geoscience.gov.au/">Geoscience Australia – AUSGIN: Australian Geoscience Information Network</A><br>
 <A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Geoscience Australia – Bathymetry</A><br>
@@ -25,6 +27,9 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="http://maps.ga.gov.au/interactive-maps/#/">Geoscience Australia – Interactive Maps</A><br>
 <A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Geoscience Australia – Product catalogue (eCat)</A><br>
 <A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Geoscience Australia – Stratigraphic Units</A><br>
+
+<H3> Geological Survey of NSW </H3>
+
 <A HREF="https://search.geoscience.nsw.gov.au/">GSNSW – DIGS: Digital Imaging of Geological System</A><br>
 <A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library">GSNSW – Drillcore Library (Londonderry)</A><br>
 <A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services">GSNSW – Geoscience Services</A><br>
