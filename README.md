@@ -17,7 +17,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">CSIRO – Soil and Landscape Grid of Australia</A><br>
 <A HREF="https://research.csiro.au/thespectralgeologist/">CSIRO – The Spectral Geologist</A><br>
 
-<H3> Geoscience Australia </H3>
+<H4> Geoscience Australia </H4>
 <A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">Geoscience Australia – AusAEM</A><br>
 <A HREF="http://www.geoscience.gov.au/">Geoscience Australia – AUSGIN: Australian Geoscience Information Network</A><br>
 <A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Geoscience Australia – Bathymetry</A><br>
