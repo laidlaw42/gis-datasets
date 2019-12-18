@@ -31,18 +31,37 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 <H4> Geological Survey of NSW </H4>
 
-<A HREF="https://search.geoscience.nsw.gov.au/">GSNSW – DIGS: Digital Imaging of Geological System</A><br>
-<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library">GSNSW – Drillcore Library (Londonderry)</A><br>
-<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services">GSNSW – Geoscience Services</A><br>
-<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data">GSNSW – Geophysical images and data</A><br>
-<A HREF="https://minexcrc.com.au/">GSNSW – MinEx CRC</A><br>
-<A HREF="https://minview.geoscience.nsw.gov.au/">GSNSW – MinView</A><br>
-<A HREF="https://six.nsw.gov.au/">GSNSW – SIX: Spatial Information Exchange</A><br>
-<A HREF="https://www.seed.nsw.gov.au/">GSNSW – SEED: Sharing and Enabling Environmental Data</A><br>
-<A HREF="https://map.sarig.sa.gov.au/">GSSA – SARIG: South Australian Resource Information Gateway</A><br>
+<A HREF="https://search.geoscience.nsw.gov.au/"><b>DIGS: Digital Imaging of Geological System</b></A><br>
+<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library">Drillcore Library (Londonderry)</A><br>
+<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services">Geoscience Services</A><br>
+<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data">Geophysical images and data</A><br>
+<A HREF="https://minexcrc.com.au/">MinEx CRC</A><br>
+<A HREF="https://minview.geoscience.nsw.gov.au/"><b>MinView</b></A><br>
+<A HREF="https://six.nsw.gov.au/">SIX: Spatial Information Exchange</A><br>
+<A HREF="https://www.seed.nsw.gov.au/">SEED: Sharing and Enabling Environmental Data</A><br>
+
+<H3>Geological Survey of Queensland</H3>
+<A HREF="https://georesglobe.information.qld.gov.au/">GeoRes Globe</a><br>
+<A HREF="https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data">QDEX Data</a><br>
+<A HREF="https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial">QSpatial</a><br>
+<A HREF=""></a>
+
+<H3>Geological Survey of South Australia<H3>
+<A HREF="https://map.sarig.sa.gov.au/">ARIG: South Australian Resource Information Gateway</A><br>
+
+<H3>Geological Survey of Victoria</H3>
+<A HREF=""></a>
+
+<H3>Geological Survey of South Australia<H3>
+<A HREF="https://map.sarig.sa.gov.au/">ARIG: South Australian Resource Information Gateway</A><br>
+
+<H3>Other</H3>
 <A HREF="http://icsm.gov.au/">ICSM – Intergovernmental Committee on Surveying and Mapping</A><br>
 <A HREF="http://www.onegeology.org/use/home.html">OneGeology – Geoscience data</A><br>
 <A HREF="http://www.metoc.gov.au/">Meteorology &amp; Oceanograhy – Department of Defence (Navy)</A><br>
+
+
+
 
 <H2 FOLDED>GLOBAL</H2>
 <A HREF="https://github.com/onurakpolat/awesome-bigdata#readme">Awesome Big Data – Github</A><br>
