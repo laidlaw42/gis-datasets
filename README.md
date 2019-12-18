@@ -5,17 +5,17 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 <H4>CSIRO: Commonwealth Scientific and Industrial Research Organisation</H4>
 
-<A HREF="http://www.marine.csiro.au/datacentre/">CSIRO – Oceans and Atmosphere</A><br>
-<A HREF="https://www.asris.csiro.au/">CSIRO – Soil ASRIS</A><br>
-<A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">CSIRO – Soil and Landscape Grid of Australia</A><br>
+<A HREF="http://www.marine.csiro.au/datacentre/">Oceans and Atmosphere</A><br>
+<A HREF="https://www.asris.csiro.au/">Soil ASRIS</A><br>
+<A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">Soil and Landscape Grid of Australia</A><br>
 <A HREF="https://research.csiro.au/thespectralgeologist/">CSIRO – The Spectral Geologist</A><br>
 
 
 <H4> Geoscience Australia </H4>
 
-<A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">AusAEM</A><br>
+<A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">AusAEM (airborne electromagnetic survey)</A><br>
 <A HREF="http://www.geoscience.gov.au/">AUSGIN: Australian Geoscience Information Network</A><br>
-<A HREF="http://portal.geoscience.gov.au/">AUSGIN Portal</A>
+<A HREF="http://portal.geoscience.gov.au/">AUSGIN Portal</A><br>
 <A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Bathymetry</A><br>
 <A HREF="https://www.ga.gov.au/data-pubs">Data &amp; Publications</A><br>
 <A HREF="https://hotspots.dea.ga.gov.au/">Digital Earth Australia Hotspots</A><br>
