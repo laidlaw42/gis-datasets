@@ -3,7 +3,6 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H2 FOLDED>AUSTRALIA</H2>
 
 <H4>CSIRO: Commonwealth Scientific and Industrial Research Organisation</H4>
-
 <A HREF="http://www.marine.csiro.au/datacentre/">CSIRO – Oceans and Atmosphere</A><br>
 <A HREF="https://www.asris.csiro.au/">CSIRO – Soil ASRIS</A><br>
 <A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">CSIRO – Soil and Landscape Grid of Australia</A><br>
