@@ -14,6 +14,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 <A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">AusAEM</A><br>
 <A HREF="http://www.geoscience.gov.au/">AUSGIN: Australian Geoscience Information Network</A><br>
+<A HREF="http://portal.geoscience.gov.au/">AUSGIN Portal</A>
 <A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Bathymetry</A><br>
 <A HREF="https://www.ga.gov.au/data-pubs">Data &amp; Publications</A><br>
 <A HREF="https://hotspots.dea.ga.gov.au/">Digital Earth Australia Hotspots</A><br>
@@ -67,13 +68,12 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx">Regional geophysical survey data</A>
 
 <H4>Other</H4>
-<A HREF="https://www.agriculture.gov.au/abares/data">ABARES – Department of Agriculture</A><br>
+<A HREF="https://www.agriculture.gov.au/abares/data">ABARES: Australian Bureau of Agricultural and Resource Economics and Sciences</A><br>
 <A HREF="https://www.anzlic.gov.au/">ANZLIC – Spatial Information Council</A><br>
 <A HREF="https://data.aad.gov.au/">Australian Antarctic Data Centre – Dep of Environment &amp; Energy</A><br>
 <A HREF="https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information">Australian Government – Spatial information</A><br>
 <A HREF="https://data.gov.au/">Australian Government – data.gov.au</A><br>
 <A HREF="https://nationalmap.gov.au/">Australian Government – NationalMap</A><br>
-<A HREF="http://portal.geoscience.gov.au/">AUSGIN – Geoscience Portal</A><br>
 <A HREF="http://portal.auscope.org/">AuScope – Discovery Portal</A><br>
 <A HREF="https://www.auscope.org.au/">AuScope – Home</A><br>
 <A HREF="http://www.bom.gov.au/climate/data-services/">BOM – Bureau of Meteorlogy – Climate &amp; Oceans data</A><br>
