@@ -62,6 +62,15 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H4>Geological Survey of South Australia</H4>
 
 <A HREF="https://map.sarig.sa.gov.au/">SARIG: South Australian Resource Information Gateway</A><br>
+<A HREF"http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models">3D geological models</A><br>
+<A HREF"http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology">Geochronology</A><br>
+<A HREF"http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps">Geological maps</A><br>
+<A HREF"http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data">Geophysical data</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data">Geoscientific data</A><br>
+<A HREF"http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger">Hylogger</A><br>
+<A HREF"http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing">Remote sensing</A><br>
+
+
 
 <H4>Geological Survey of Western Australia</H4>
 <A HREF="https://dasc.dmp.wa.gov.au/dasc/">DMIRS Data and Software Centre</A><br>
