@@ -12,10 +12,15 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://www.auscope.org.au/">AuScope – Home</A><br>
 <A HREF="http://www.bom.gov.au/climate/data-services/">BOM – Bureau of Meteorlogy – Climate &amp; Oceans data</A><br>
 <A HREF="http://www.corstruth.com.au/">CorStruth – Hylogger Core Log Data</A><br>
+
+
+<H4>CSIRO: Commonwealth Scientific and Industrial Research Organisation</H4>
+
 <A HREF="http://www.marine.csiro.au/datacentre/">CSIRO – Oceans and Atmosphere</A><br>
 <A HREF="https://www.asris.csiro.au/">CSIRO – Soil ASRIS</A><br>
 <A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">CSIRO – Soil and Landscape Grid of Australia</A><br>
 <A HREF="https://research.csiro.au/thespectralgeologist/">CSIRO – The Spectral Geologist</A><br>
+
 
 <H4> Geoscience Australia </H4>
 
@@ -29,6 +34,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Product catalogue (eCat)</A><br>
 <A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Stratigraphic Units</A><br>
 
+
 <H4> Geological Survey of NSW </H4>
 
 <A HREF="https://search.geoscience.nsw.gov.au/"><b>DIGS: Digital Imaging of Geological System</b></A><br>
@@ -40,22 +46,35 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://six.nsw.gov.au/">SIX: Spatial Information Exchange</A><br>
 <A HREF="https://www.seed.nsw.gov.au/">SEED: Sharing and Enabling Environmental Data</A><br>
 
-<H3>Geological Survey of Queensland</H3>
+
+<H4>Geological Survey of Queensland</H4>
+
 <A HREF="https://georesglobe.information.qld.gov.au/">GeoRes Globe</a><br>
 <A HREF="https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data">QDEX Data</a><br>
 <A HREF="https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial">QSpatial</a><br>
 <A HREF=""></a>
 
-<H3>Geological Survey of South Australia<H3>
+
+<H4>Geological Survey of South Australia</H4>
+
 <A HREF="https://map.sarig.sa.gov.au/">ARIG: South Australian Resource Information Gateway</A><br>
 
-<H3>Geological Survey of Victoria</H3>
-<A HREF=""></a>
 
-<H3>Geological Survey of South Australia<H3>
-<A HREF="https://map.sarig.sa.gov.au/">ARIG: South Australian Resource Information Gateway</A><br>
+<H4>Geological Survey of Victoria</H4>
 
-<H3>Other</H3>
+<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling">3D Geological Models</A>
+<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library">Drillcore Libray</a>
+<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic">GeoVic</a><br>
+<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data">Geochemical Data</a><br>
+<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data">Geophysics Data</a><br>
+
+
+<H4>Geological Survey of South Australia</H4>
+
+<A HREF="https://map.sarig.sa.gov.au/">SARIG: South Australian Resource Information Gateway</A><br>
+
+
+<H4>Other</H4>
 <A HREF="http://icsm.gov.au/">ICSM – Intergovernmental Committee on Surveying and Mapping</A><br>
 <A HREF="http://www.onegeology.org/use/home.html">OneGeology – Geoscience data</A><br>
 <A HREF="http://www.metoc.gov.au/">Meteorology &amp; Oceanograhy – Department of Defence (Navy)</A><br>
