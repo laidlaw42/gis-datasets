@@ -86,7 +86,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 
 
-<H2 FOLDED>GLOBAL</H2>
+<H1 FOLDED>GLOBAL</H1>
 <A HREF="https://github.com/onurakpolat/awesome-bigdata#readme">Awesome Big Data – Github</A><br>
 <A HREF="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets – Github</A>   <b>(Very Large, Very Awesome)</b><br>
 
@@ -116,7 +116,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://droughtmonitor.unl.edu/">USA Drought Monitor</A>   (USA)<br>
 <A HREF="http://viirsfire.geog.umd.edu/map/viirsMap.php">VIIRS – Active Fire Global Map</A><br>
 
-<H2 FOLDED>Tutorials</H2>
+<H1 FOLDED>Tutorials &amp; Troubleshooting</H1>
 
 <H4 FOLDED>ESRI ArcGIS</H4>
 Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.<br><br>
