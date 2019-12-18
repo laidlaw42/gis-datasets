@@ -48,7 +48,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://map.sarig.sa.gov.au/">SARIG: South Australian Resource Information Gateway</A><br>
 
 
-<H4>Geological Survey of Victoria</H4><br>
+<H4>Geological Survey of Victoria</H4>
 
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling">3D Geological Models</A><br>
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library">Drillcore Libray</a><br>
@@ -64,7 +64,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H4>Geological Survey of Western Australia</H4>
 <A HREF="https://dasc.dmp.wa.gov.au/dasc/">DMIRS Data and Software Centre</A><br>
 <A HREF="https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW">GeoView</A><br>
-< AHREF="http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx">Regional geophysical survey data</A>
+<A HREF="http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx">Regional geophysical survey data</A>
 
 <H4>Other</H4>
 <A HREF="https://www.agriculture.gov.au/abares/data">ABARES – Department of Agriculture</A><br>
