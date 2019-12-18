@@ -50,14 +50,14 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H4>Geological Survey of Queensland</H4>
 
 <A HREF="https://georesglobe.information.qld.gov.au/">GeoRes Globe</a><br>
+<A HREF="https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data">Geoscience digital data</a>
 <A HREF="https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data">QDEX Data</a><br>
 <A HREF="https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial">QSpatial</a><br>
-<A HREF=""></a>
 
 
 <H4>Geological Survey of South Australia</H4>
 
-<A HREF="https://map.sarig.sa.gov.au/">ARIG: South Australian Resource Information Gateway</A><br>
+<A HREF="https://map.sarig.sa.gov.au/">SARIG: South Australian Resource Information Gateway</A><br>
 
 
 <H4>Geological Survey of Victoria</H4>
