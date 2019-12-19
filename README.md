@@ -92,8 +92,10 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <H1 FOLDED>GLOBAL</H1>
 <A HREF="https://github.com/onurakpolat/awesome-bigdata#readme">Awesome Big Data – Github</A><br>
 <A HREF="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets – Github</A>   <b>(Very Large, Very Awesome)</b><br>
+<A HREF="https://aws.amazon.com/opendata/">Open Data on AWS (Amazon Web Service)</A>
 
 <H4>NASA: National Aeronautics and Space Administration</H4>
+<A HREF="https://api.nasa.gov/">NASA API</A>
 <A HREF="https://earthobservatory.nasa.gov/global-maps">Earth Observatory</A><br>
 <A HREF="https://worldview.earthdata.nasa.gov/">EOSDIS Worldview</A><br>
 <A HREF="https://firms.modaps.eosdis.nasa.gov/">FIRMS: Active Fire Data</A><br>
@@ -144,3 +146,4 @@ Mostly official ArcGIS stuff because ESRI are pretty thorough with their documen
 <A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (free geo-centric Python programming course)<br>
 <A HREF="https://www.reddit.com/r/gis/">GIS subreddit</A><br>
 <A HREF="https://www.reddit.com/r/gis/wiki/index">GIS subreddit wiki</A><br>
+<A HREF="http://geoserver.org/">Geoserver</A>
