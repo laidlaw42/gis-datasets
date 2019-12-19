@@ -56,7 +56,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library">Drillcore Libray</a><br>
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic">GeoVic</a><br>
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data">Geochemical Data</a><br>
-<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data">Geophysics Data</a><br>
+<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data">Geophysical Data</a><br>
 
 
 <H4>Geological Survey of South Australia</H4>
@@ -100,9 +100,9 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets – Github</A>   <b>(Very Large, Very Awesome)</b><br>
 
 <H4>NASA: National Aeronautics and Space Administration</H4>
-<A HREF="https://earthobservatory.nasa.gov/global-maps">NASA – Earth Observatory</A><br>
-<A HREF="https://worldview.earthdata.nasa.gov/">NASA – EOSDIS Worldview</A><br>
-<A HREF="https://firms.modaps.eosdis.nasa.gov/">NASA – FIRMS: Active Fire Data</A><br>
+<A HREF="https://earthobservatory.nasa.gov/global-maps">Earth Observatory</A><br>
+<A HREF="https://worldview.earthdata.nasa.gov/">EOSDIS Worldview</A><br>
+<A HREF="https://firms.modaps.eosdis.nasa.gov/">FIRMS: Active Fire Data</A><br>
 
 
 <H4>USGS: United States Geological Survey</H4>
