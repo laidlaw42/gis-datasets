@@ -47,7 +47,14 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 <H4>Geological Survey of South Australia</H4>
 
-<A HREF="https://map.sarig.sa.gov.au/">SARIG: South Australian Resource Information Gateway</A><br>
+<A HREF="https://map.sarig.sa.gov.au/"><b>SARIG: South Australian Resource Information Gateway</b></A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models">3D geological models</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology">Geochronology</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps">Geological maps</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data">Geophysical data</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data">Geoscientific data</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger">Hylogger</A><br>
+<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing">Remote sensing</A><br>
 
 
 <H4>Geological Survey of Victoria</H4>
@@ -57,19 +64,6 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic">GeoVic</a><br>
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data">Geochemical Data</a><br>
 <A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data">Geophysical Data</a><br>
-
-
-<H4>Geological Survey of South Australia</H4>
-
-<A HREF="https://map.sarig.sa.gov.au/">SARIG: South Australian Resource Information Gateway</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models">3D geological models</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology">Geochronology</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps">Geological maps</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data">Geophysical data</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data">Geoscientific data</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger">Hylogger</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing">Remote sensing</A><br>
-
 
 
 <H4>Geological Survey of Western Australia</H4>
