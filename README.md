@@ -20,7 +20,8 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://www.ga.gov.au/data-pubs">Data &amp; Publications</A><br>
 <A HREF="https://hotspots.dea.ga.gov.au/">Digital Earth Australia Hotspots</A><br>
 <A HREF="https://earthquakes.ga.gov.au/">Earthquakes</A><br>
-<A HREF="http://maps.ga.gov.au/interactive-maps/#/">Interactive Maps</A><br>
+<A HREF="http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data">Digital Elevation (DEM)</A><br>
+<A HREF="http://maps.ga.gov.au/interactive-maps/#/">Interactive Maps (Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water)</A><br>
 <A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Product catalogue (eCat)</A><br>
 <A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Stratigraphic Units</A><br>
 
