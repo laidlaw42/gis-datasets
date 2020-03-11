@@ -94,6 +94,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 <A HREF="https://github.com/onurakpolat/awesome-bigdata#readme">Awesome Big Data – Github</A><br>
 <A HREF="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets – Github</A>   <b>(Very Large, Very Awesome)</b><br>
 <A HREF="https://aws.amazon.com/opendata/">Open Data on AWS (Amazon Web Service)</A>
+<A HREF="http://www.diva-gis.org/gdata">DIVA-GIS (administrative boundaries, roads, elevation, landcover etc.)
 
 <H4>NASA: National Aeronautics and Space Administration</H4>
 <A HREF="https://api.nasa.gov/">NASA API</A>
