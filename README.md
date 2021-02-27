@@ -66,18 +66,18 @@ Coming soon:
 - [ICSM – Intergovernmental Committee on Surveying and Mapping](http://icsm.gov.au/)
 - [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html)
 - [Meteorology &amp; Oceanograhy – Department of Defence (Navy)](http://www.metoc.gov.au/)
+- [MinEx CRC](https://minexcrc.com.au/) - information about the nation-wide MinEx CRC project.
 
 
 ## State Geological Surveys
 ###### Geological Survey of NSW (GSNSW)
-- [<b>DIGS: Digital Imaging of Geological System</b>](https://search.geoscience.nsw.gov.au/)
-- [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library)
-- [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services)
-- [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data)
-- [MinEx CRC](https://minexcrc.com.au/)
-- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/)
-- [SIX: Spatial Information Exchange](https://six.nsw.gov.au/)
-- [SEED: Sharing and Enabling Environmental Data](https://www.seed.nsw.gov.au/)
+- [<b>DIGS: Digital Imaging of Geological System</b>](https://search.geoscience.nsw.gov.au/) - DIGS is a public, online archive that provides access to non-confidential reports and other important documentary material held by the GSNSW
+- [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library) - information for access to drillcore data and free physical access to drillcore.
+- [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services) - online services at GSNSW.
+- [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data) - information for accessing geophysical images and data.
+- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/) - very advanced GIS tool for NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
+- [Spatial Information Exchange (SIX)](https://six.nsw.gov.au/) - provides the spatial and cadastral products and services previously accessed from SIX.
+- [Sharing and Enabling Environmental Data (SEED)](https://www.seed.nsw.gov.au/) - SEED is the NSW Government’s central resource for Sharing and Enabling Environmental Data.
 
 
 ###### Geological Survey of Queensland (GSQ)
@@ -122,20 +122,20 @@ Coming soon:
 
 ---
 ## Global
-- [<b>Awesome Big Data Github</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
-- [Awesome Public Datasets – Github  <b>(Very Large, Very Awesome)</b>](https://github.com/awesomedata/awesome-public-datasets)
-- [Amazon Web Service (AWS) Open Data](https://aws.amazon.com/opendata/)
+- [<b>Awesome</b> - Everything](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
+- [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
+- [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious aren't fruitful.
+- [Amazon Web Service (AWS) Registry of Open Data](https://registry.opendata.aws/) - discover and share datasets that are available via AWS resources (landsat, genome, weather, medical, etc.).
 - [DIVA-GIS](http://www.diva-gis.org/gdata) - global data for administrative boundaries, roads, elevation, landcover, population, climate, inland water, and gazetteer.
-- [Data Basin – Conservation Biology Institute](https://databasin.org/)
-- [EarthWindMap – NullSchool](https://earth.nullschool.net/)
-- [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/)
-- [Google Earth Engine](https://developers.google.com/earth-engine/datasets/)
-- [NOAA – National Oceanic and Atmospheric Administration (USA)](https://www.ncdc.noaa.gov/data-access)
-- [Our World in Data](https://ourworldindata.org/)
-- [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/)
-- [USA Drought Monitor](https://droughtmonitor.unl.edu/)
-- [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php)
-
+- [Data Basin – Conservation Biology Institute](https://databasin.org/) - science-based mapping and analysis platform that supports learning, research, and sustainable environmental stewardship.
+- [EarthWindMap – NullSchool](https://earth.nullschool.net/) - beautiful interactive web map that depicts global wind, water, weather and climate data.
+- [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/) - a repository of links to weather, climate, elevation, land/ocean, geography, geology and the like. Quite extensive, another decent place to start searching for data.
+- [Google Earth Engine](https://developers.google.com/earth-engine/datasets/) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
+- [National Oceanic and Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/data-access) - access to weather and water datasets across the USA.
+- [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world’s largest problems.
+- [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/) - interactive web map for locating satellite and remote sensing data.
+- [United States Drought Monitor](https://droughtmonitor.unl.edu/) - USA drought datasets and pre-made maps.
+- [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php) - interactive web map depicting global active fires.
 
 ###### National Aeronautics and Space Administration (NASA)
 - [NASA Open APIs](https://api.nasa.gov/) - makes NASA data, including imagery, eminently accessible to application developers. 
