@@ -4,18 +4,22 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 ---
 
 * [Australia](Australia)
-    * [CSIRO](#CSIRO)
-    * [Geoscience Australia](#geoscience-australia)
+    * [Commonwealth Scientific and Industrial Research Organisation](#commonwealth-scientific-and-industrial-research-organisation-csiro)
+    * [Geoscience Australia](#geoscience-australia-ga)
     * [Other](#other)
     * [State Geological Surveys](#state-geological-surveys)
-        * [Geological Survey of NSW](#geological-survey-of-nsw)
-        * [Geological Survey of Queensland](#geological-survey-of-queensland)
-        * [Geological Survey of South Australia](#geological-survey-of-south-australia)
-        * [Geological Survey of Victoria](#geological-survey-of-victoria)
-        * [Geological Survey of Western Australia](#geological-survey-of-western-australia)
+        * [Geological Survey of NSW](#geological-survey-of-nsw-gsnsw)
+        * [Geological Survey of Queensland](#geological-survey-of-queensland-gsq)
+        * [Geological Survey of South Australia](#geological-survey-of-south-australia-gssa)
+        * [Geological Survey of Victoria](#geological-survey-of-victoria-gsv)
+        * [Geological Survey of Western Australia](#geological-survey-of-western-australia-gswa)
 * [Global](#global)
-    * [NASA](#NASA)
-    * [USGS](#USGS)
+    * [National Aeronautics and Space Administration](#national-aeronautics-and-space-administration-nasa)
+    * [United States Geological Survey](#united-states-geological-survey-usgs)
+* [Tutorials &amp; Troubleshooting](#tutorials-amp-troubleshooting)
+    * [ESRI ArcGIS](#esri-arcgis)
+    * [QGIS](#qgis)
+    * [Miscellaneous](#miscellaneous)
     
 ---
 
@@ -27,7 +31,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 - [CSIRO – The Spectral Geologist](https://research.csiro.au/thespectralgeologist/)
 
 
-###### Geoscience Australia 
+###### Geoscience Australia (GA)
 - [AusAEM (airborne electromagnetic survey)](http://www.ga.gov.au/eftf/minerals/nawa/ausaem)
 - [AUSGIN: Australian Geoscience Information Network](http://www.geoscience.gov.au/)
 - [AUSGIN Portal](http://portal.geoscience.gov.au/)
@@ -58,7 +62,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 
 ## State Geological Surveys
-###### Geological Survey of NSW
+###### Geological Survey of NSW (GSNSW)
 - [<b>DIGS: Digital Imaging of Geological System</b>](https://search.geoscience.nsw.gov.au/)
 - [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library)
 - [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services)
@@ -69,14 +73,14 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 - [SEED: Sharing and Enabling Environmental Data](https://www.seed.nsw.gov.au/)
 
 
-###### Geological Survey of Queensland
+###### Geological Survey of Queensland (GSQ)
 - [GeoRes Globe](https://georesglobe.information.qld.gov.au/)
 - [Geoscience digital data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data)
 - [QDEX Data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data)
 - [QSpatial](https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial)
 
 
-###### Geological Survey of South Australia
+###### Geological Survey of South Australia (GSSA)
 - [<b>SARIG: South Australian Resource Information Gateway</b>](https://map.sarig.sa.gov.au/)
 - [3D geological models](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models)
 - [Geochronology](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology)
@@ -87,7 +91,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 - [Remote sensing](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing)
 
 
-###### Geological Survey of Victoria
+###### Geological Survey of Victoria (GSV)
 - [3D Geological Models](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling)
 - [Drillcore Libray](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library)
 - [GeoVic](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic)
@@ -95,7 +99,7 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 - [Geophysical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data)
 
 
-###### Geological Survey of Western Australia
+###### Geological Survey of Western Australia (GSWA)
 - [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/)
 - [GeoView](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW)
 - [Regional geophysical survey data](http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx)
@@ -118,14 +122,14 @@ Need to add Tasmania and Northern Territory.
 - [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php)
 
 
-###### NASA: National Aeronautics and Space Administration
+###### National Aeronautics and Space Administration (NASA)
 - [NASA API](https://api.nasa.gov/)
 - [Earth Observatory](https://earthobservatory.nasa.gov/global-maps)
 - [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/)
 - [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/)
 
 
-###### USGS: United States Geological Survey
+###### United States Geological Survey (USGS)
 - [EarthExplorer](https://earthexplorer.usgs.gov/)
 - [National Burn Severity Mapping Project (USA)](https://burnseverity.cr.usgs.gov/)
 - [National Map (USA)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map)
@@ -151,7 +155,7 @@ Mostly official ArcGIS stuff because ESRI are pretty thorough with their documen
 - [Spatial Exploration – Slope &amp; Aspect modelling](https://www.youtube.com/watch?v=j3cjMXYa63I)
 - [QGIS Subreddit](https://www.reddit.com/r/qgis/)
 
-###### Misc
+###### Miscellaneous
 - [GIS StackExchange (for all your troubleshooting needs)](https://gis.stackexchange.com/)
 - [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md)
 - [Geo-Python (free geo-centric Python programming course)](https://geo-python.github.io/site/)
