@@ -1,10 +1,9 @@
 ## GIS Resource List 
-A collection of links to GIS and remote sensing datasets, manuals, and tutorials.
+A collection of links to GIS (Geographic Information Systems) and remote sensing datasets, interactive maps, manuals, tutorials, and programming information.
 Primarily curated towards Australian sources with an emphasis on geological data at present.
 
 
 ---
-
 * [Australia](Australia)
     * [Commonwealth Scientific and Industrial Research Organisation (CSIRO)](#commonwealth-scientific-and-industrial-research-organisation-csiro)
     * [Geoscience Australia (GA)](#geoscience-australia-ga)
@@ -15,6 +14,8 @@ Primarily curated towards Australian sources with an emphasis on geological data
         * [Geological Survey of South Australia](#geological-survey-of-south-australia-gssa)
         * [Geological Survey of Victoria](#geological-survey-of-victoria-gsv)
         * [Geological Survey of Western Australia](#geological-survey-of-western-australia-gswa)
+        * [Mineral Resources Tamania](#mineral-resources-tasmania)
+        * [Northern Territory Geological Survey](#northern-territory-geological-survey)
 * [Global](#global)
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
@@ -22,9 +23,9 @@ Primarily curated towards Australian sources with an emphasis on geological data
     * [ESRI ArcGIS](#esri-arcgis)
     * [QGIS](#qgis)
     * [Miscellaneous](#miscellaneous)
-    
----
 
+ 
+---
 ## AUSTRALIA
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
 - [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) - vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
@@ -107,8 +108,16 @@ Primarily curated towards Australian sources with an emphasis on geological data
 - [GeoView](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW)
 - [Regional geophysical survey data](http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx)
 
-Need to add Tasmania and Northern Territory.
 
+###### Mineral Resources Tasmania
+- [To be added]() - soonish
+
+
+###### Northern Territory Geological Survey
+- [To be added]() - soonish
+
+
+---
 ## GLOBAL
 - [Awesome Big Data Github](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
 - [Awesome Public Datasets – Github  <b>(Very Large, Very Awesome)</b>](https://github.com/awesomedata/awesome-public-datasets)
@@ -140,28 +149,30 @@ Need to add Tasmania and Northern Territory.
 - [ScienceBase](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47df9c)
 
 
+---
 ## Tutorials &amp; Troubleshooting
 ###### ESRI ArcGIS
 Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.
-- [ESRI Geonet Forums](https://geonet.esri.com)
-- [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview)
+- [ESRI Community](https://community.esri.com) - ESRI's official forum, a global community of Esri users where you can find solutions, share ideas,
+and collaborate to solve problems with GIS.
+- [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product by ESRI to teach GIS and remote sensing.
 - [Get Started with ArcMap](https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm)
 - [Get Started with ArcGIS Pro](https://learn.arcgis.com/en/projects/get-started-with-arcgis-pro/lessons/explore-the-study-area.htm)
 - [Learn ArcGIS](https://learn.arcgis.com/en/)
 - [Quick Start](https://pro.arcgis.com/en/pro-app/get-started/pro-quickstart-tutorials.htm)
-- [ArcGIS Official Yotube Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb)
-- [ArcGIS Subreddit](https://www.reddit.com/r/arcgis/)
+- [ArcGIS Official Youtube Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb)
+- [ArcGIS Subreddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
 
 ###### QGIS
-- [QGIS – Manual](https://docs.qgis.org/3.4/en/docs/training_manual/index.html)
-- [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw)
-- [Spatial Exploration – Slope &amp; Aspect modelling](https://www.youtube.com/watch?v=j3cjMXYa63I)
-- [QGIS Subreddit](https://www.reddit.com/r/qgis/)
+QGIS is a free and open source Geographic Information System. 
+- [QGIS – Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
+- [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
+- [Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
+- [QGIS Subreddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
 
 ###### Miscellaneous
-- [GIS StackExchange (for all your troubleshooting needs)](https://gis.stackexchange.com/)
-- [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md)
-- [Geo-Python (free geo-centric Python programming course)](https://geo-python.github.io/site/)
-- [GIS subreddit](https://www.reddit.com/r/gis/)
-- [GIS subreddit wiki](https://www.reddit.com/r/gis/wiki/index)
-- [Geoserver](http://geoserver.org/)
+- [GIS StackExchange](https://gis.stackexchange.com/) - for all your troubleshooting needs.
+- [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - this repository lays out a path to take someone with no GIS experience to a proficient GIS Developer.
+- [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
+- [GIS subreddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
+- [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data. Using open standards set by the Open Geospatial Consortium, it allows for great flexibility in map creation and data sharing. 
