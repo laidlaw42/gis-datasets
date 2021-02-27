@@ -1,4 +1,4 @@
-## GIS Resource List 
+## Mostly Australian GIS and Remote Sensing Resource List 
 A curated list of GIS (Geographic Information Systems) and remote sensing links that connect to datasets, web maps, manuals, tutorials, and programming information.
 Primarily consists of Australian sources with an emphasis on geological data at present. 
 
@@ -23,7 +23,7 @@ Coming soon:
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
 * [Tutorials &amp; Troubleshooting](#tutorials-amp-troubleshooting)
-    * [ESRI ArcGIS](#esri-arcgis)
+    * [ArcGIS](#arcgis)
     * [QGIS](#qgis)
     * [Miscellaneous](#miscellaneous)
 
@@ -154,28 +154,26 @@ Coming soon:
 
 ---
 ## Tutorials &amp; Troubleshooting
-###### ESRI ArcGIS
-Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.
+###### ArcGIS
+ArcGIS is a paid and closed source GIS.
 - [ESRI Community](https://community.esri.com) - ESRI's official forum, a global community of Esri users where you can find solutions, share ideas,
 and collaborate to solve problems with GIS.
-- [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product by ESRI to teach GIS and remote sensing.
-- [Get Started with ArcMap](https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm)
-- [Get Started with ArcGIS Pro](https://learn.arcgis.com/en/projects/get-started-with-arcgis-pro/lessons/explore-the-study-area.htm)
-- [Learn ArcGIS](https://learn.arcgis.com/en/)
-- [Quick Start](https://pro.arcgis.com/en/pro-app/get-started/pro-quickstart-tutorials.htm)
-- [ArcGIS Official Youtube Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb)
+- [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about GIS.
+- [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
+- [ArcMap](https://desktop.arcgis.com/en/arcmap/) - a good resource for finding information about functions and concepts in ArcMap.
+- [ArcGIS Official Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb) - tutorials for ArcGIS on Youtube.
 - [ArcGIS Subreddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
 
 ###### QGIS
-QGIS is a free and open source Geographic Information System. 
+QGIS is a free and open source GIS.
 - [QGIS – Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
 - [Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
 - [QGIS Subreddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
 
 ###### Miscellaneous
-- [GIS StackExchange](https://gis.stackexchange.com/) - for all your troubleshooting needs.
+- [GIS StackExchange](https://gis.stackexchange.com/) - a place for all your troubleshooting needs relating to all things GIS.
 - [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
 - [GIS subreddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
-- [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data. Using open standards set by the Open Geospatial Consortium, it allows for great flexibility in map creation and data sharing. 
+- [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
