@@ -4,7 +4,7 @@ Primarily consists of Australian sources with an emphasis on geological data at 
 
 Coming soon:
 - More data
-- 
+- Descriptions for every link
 
 ---
 * [Australia](#Australia)
@@ -124,8 +124,8 @@ Coming soon:
 ## Global
 - [<b>Awesome Big Data Github</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
 - [Awesome Public Datasets – Github  <b>(Very Large, Very Awesome)</b>](https://github.com/awesomedata/awesome-public-datasets)
-- [Open Data on AWS (Amazon Web Service)](https://aws.amazon.com/opendata/)
-- [DIVA-GIS](http://www.diva-gis.org/gdata) - administrative boundaries, roads, elevation, landcover etc.
+- [Amazon Web Service (AWS) Open Data](https://aws.amazon.com/opendata/)
+- [DIVA-GIS](http://www.diva-gis.org/gdata) - global data for administrative boundaries, roads, elevation, landcover, population, climate, inland water, and gazetteer.
 - [Data Basin – Conservation Biology Institute](https://databasin.org/)
 - [EarthWindMap – NullSchool](https://earth.nullschool.net/)
 - [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/)
