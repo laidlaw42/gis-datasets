@@ -53,20 +53,18 @@ Coming soon:
 
 
 ###### Other
-- [ABARES: Australian Bureau of Agricultural and Resource Economics and Sciences](https://www.agriculture.gov.au/abares/data)
-- [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/)
-- [Australian Antarctic Data Centre – Dep of Environment &amp; Energy](https://data.aad.gov.au/)
-- [Australian Government – Spatial information](https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information)
-- [Australian Government – data.gov.au](https://data.gov.au/) - an easy way to find, explore and reuse Australia's public data
-- [Australian Government – NationalMap](https://nationalmap.gov.au/)
-- [AuScope – Discovery Portal](http://portal.auscope.org/)
-- [AuScope – Home](https://www.auscope.org.au/)
-- [BOM – Bureau of Meteorlogy – Climate &amp; Oceans data](http://www.bom.gov.au/climate/data-services/)
-- [CorStruth – Hylogger Core Log Data](http://www.corstruth.com.au/)
-- [ICSM – Intergovernmental Committee on Surveying and Mapping](http://icsm.gov.au/)
-- [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html)
-- [Meteorology &amp; Oceanograhy – Department of Defence (Navy)](http://www.metoc.gov.au/)
-- [MinEx CRC](https://minexcrc.com.au/) - information about the nation-wide MinEx CRC project.
+- [Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)](https://www.agriculture.gov.au/abares/data) - ABARES produce tools, models, data and metadata to help agricultural, fisheries and forestry industries make decisions.
+- [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/) - peak intergovernmental organisation providing leadership in the collection, management and use of spatial information in Australia and New Zealand.
+- [Australian Antarctic Data Centre](https://data.aad.gov.au/) - repository for Antarctica datasets.
+- [Australian Government – Spatial information](https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information) - repository for national spatial data.
+- [Australian Government – data.gov.au](https://data.gov.au/) - an easy way to find, explore and reuse Australia's public data.
+- [Australian Government – NationalMap](https://nationalmap.gov.au/) - online map-based tool to allow easy access to spatial data from Australian government agencies.
+- [AuScope](https://www.auscope.org.au/) - a research toolkit to investigate Earth Systems and their impact on Australia's livability, prosperity and environment.
+- [AuScope Apps](http://avre.auscope.org/store) - ARDC IGSN Minting Service, AuScope Portal, AusPASS, Seismic Network Design App, 3D Geological Models, MT and Underworld training, VGL.
+- [Bureau of Meteorlogy (BOM)](http://www.bom.gov.au/climate/data-services/) - weather, climate, and oceans data.
+- [CorStruth](http://www.corstruth.com.au/) - hylogger Core Log Data
+- [Intergovernmental Committee on Surveying and Mapping (ICSM)](http://icsm.gov.au/) - they do a lot, and have lots of information about data.
+- [MinEx CRC](https://minexcrc.com.au/) - information about the nationwide MinEx CRC project.
 
 
 ## State Geological Surveys
@@ -132,10 +130,12 @@ Coming soon:
 - [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/) - a repository of links to weather, climate, elevation, land/ocean, geography, geology and the like. Quite extensive, another decent place to start searching for data.
 - [Google Earth Engine](https://developers.google.com/earth-engine/datasets/) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/data-access) - access to weather and water datasets across the USA.
+- [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html) - makes data from geological data providers around the world accessible to those who would like to see and use it.
 - [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world’s largest problems.
 - [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/) - interactive web map for locating satellite and remote sensing data.
 - [United States Drought Monitor](https://droughtmonitor.unl.edu/) - USA drought datasets and pre-made maps.
 - [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php) - interactive web map depicting global active fires.
+
 
 ###### National Aeronautics and Space Administration (NASA)
 - [NASA Open APIs](https://api.nasa.gov/) - makes NASA data, including imagery, eminently accessible to application developers. 
