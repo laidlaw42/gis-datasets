@@ -1,5 +1,5 @@
 ## Mostly Australian GIS and Remote Sensing Resource List 
-A curated list of GIS (Geographic Information Systems) and remote sensing links that connect to datasets, web maps, manuals, tutorials, and programming information.
+A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect to datasets, web maps, manuals, tutorials, and programming information.
 Primarily consists of Australian sources with an emphasis on geological data at present. 
 
 Coming soon:
@@ -133,31 +133,31 @@ Coming soon:
 - [NOAA – National Oceanic and Atmospheric Administration (USA)](https://www.ncdc.noaa.gov/data-access)
 - [Our World in Data](https://ourworldindata.org/)
 - [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/)
-- [USA Drought Monitor (USA)](https://droughtmonitor.unl.edu/)
+- [USA Drought Monitor](https://droughtmonitor.unl.edu/)
 - [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php)
 
 
 ###### National Aeronautics and Space Administration (NASA)
-- [NASA API](https://api.nasa.gov/)
-- [Earth Observatory](https://earthobservatory.nasa.gov/global-maps)
-- [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/)
-- [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/)
+- [NASA Open APIs](https://api.nasa.gov/) - makes NASA data, including imagery, eminently accessible to application developers. 
+- [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) - global maps for vegetation, radiation, rainfall, snow cover, fire, land/sea surface temperature, chlorophyll, carbon monoxide, radiation, and more.
+- [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/) - interactive web map for finding satellite and remote sensor data.
+- [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/) - FIRMS) distributes Near Real-Time (NRT) active fire data within 3 hours of satellite observation from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP and NOAA 20 (formally known as JPSS-1)
 
 
 ###### United States Geological Survey (USGS)
-- [EarthExplorer](https://earthexplorer.usgs.gov/)
-- [National Burn Severity Mapping Project (USA)](https://burnseverity.cr.usgs.gov/)
-- [National Map (USA)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map)
-- [Remote Land Sensing and Landsat](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) 
-- [ScienceBase](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47df9c)
+- [Data and Tools](https://www.usgs.gov/products/data-and-tools/real-time-data) - real-time data, APIs, catalogues, datasets, and tools.
+- [EarthExplorer](https://earthexplorer.usgs.gov/) - web map interface and filter tool for find remote sensing data (TIFF, KML, shapefiles).
+- [National Burn Severity Mapping Project](https://burnseverity.cr.usgs.gov/) - provides comprehensive access to federal burn severity data.
+- [National Map](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) - a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the USA.
+- [Remote Land Sensing and Landsat](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) - real-time GIS data for many fields (volcanoes, )
+- [ScienceBase](https://www.sciencebase.gov/catalog/community/list) - a very extensive data repository for information on everything from geological, biological, marine and more. 
 
 
 ---
 ## Tutorials &amp; Troubleshooting
-###### ArcGIS
-ArcGIS is a paid and closed source GIS.
-- [ESRI Community](https://community.esri.com) - ESRI's official forum, a global community of Esri users where you can find solutions, share ideas,
-and collaborate to solve problems with GIS.
+###### ESRI ArcGIS
+[ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
+- [ESRI Community](https://community.esri.com) - ESRI's official forum.
 - [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about GIS.
 - [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
 - [ArcMap](https://desktop.arcgis.com/en/arcmap/) - a good resource for finding information about functions and concepts in ArcMap.
@@ -165,7 +165,7 @@ and collaborate to solve problems with GIS.
 - [ArcGIS Subreddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
 
 ###### QGIS
-QGIS is a free and open source GIS.
+[QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers
 - [QGIS – Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
 - [Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
