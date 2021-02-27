@@ -1,151 +1,161 @@
-A collection of links to GIS and remote sensing datasets, manuals, and tutorials.
-
-<H1 FOLDED>AUSTRALIA</H1>
-
-
-<H4>CSIRO: Commonwealth Scientific and Industrial Research Organisation</H4>
-
-<A HREF="http://www.marine.csiro.au/datacentre/">Oceans and Atmosphere</A><br>
-<A HREF="https://www.asris.csiro.au/">Soil ASRIS</A><br>
-<A HREF="https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html">Soil and Landscape Grid of Australia</A><br>
-<A HREF="https://research.csiro.au/thespectralgeologist/">CSIRO – The Spectral Geologist</A><br>
-
-
-<H4> Geoscience Australia </H4>
-
-<A HREF="http://www.ga.gov.au/eftf/minerals/nawa/ausaem">AusAEM (airborne electromagnetic survey)</A><br>
-<A HREF="http://www.geoscience.gov.au/">AUSGIN: Australian Geoscience Information Network</A><br>
-<A HREF="http://portal.geoscience.gov.au/">AUSGIN Portal</A><br>
-<A HREF="http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry">Bathymetry</A><br>
-<A HREF="https://www.ga.gov.au/data-pubs">Data &amp; Publications</A><br>
-<A HREF="https://hotspots.dea.ga.gov.au/">Digital Earth Australia Hotspots</A><br>
-<A HREF="https://earthquakes.ga.gov.au/">Earthquakes</A><br>
-<A HREF="http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data">Digital Elevation (DEM)</A><br>
-<A HREF="http://maps.ga.gov.au/interactive-maps/#/">Interactive Maps (Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water)</A><br>
-<A HREF="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/">Product catalogue (eCat)</A><br>
-<A HREF="https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units">Stratigraphic Units</A><br>
-
-
-<H4> Geological Survey of NSW </H4>
-
-<A HREF="https://search.geoscience.nsw.gov.au/"><b>DIGS: Digital Imaging of Geological System</b></A><br>
-<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library">Drillcore Library (Londonderry)</A><br>
-<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services">Geoscience Services</A><br>
-<A HREF="https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data">Geophysical images and data</A><br>
-<A HREF="https://minexcrc.com.au/">MinEx CRC</A><br>
-<A HREF="https://minview.geoscience.nsw.gov.au/"><b>MinView</b></A><br>
-<A HREF="https://six.nsw.gov.au/">SIX: Spatial Information Exchange</A><br>
-<A HREF="https://www.seed.nsw.gov.au/">SEED: Sharing and Enabling Environmental Data</A><br>
-
-
-<H4>Geological Survey of Queensland</H4>
-
-<A HREF="https://georesglobe.information.qld.gov.au/">GeoRes Globe</A><br>
-<A HREF="https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data">Geoscience digital data</A>
-<A HREF="https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data">QDEX Data</A><br>
-<A HREF="https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial">QSpatial</A><br>
-
-
-<H4>Geological Survey of South Australia</H4>
-
-<A HREF="https://map.sarig.sa.gov.au/"><b>SARIG: South Australian Resource Information Gateway</b></A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models">3D geological models</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology">Geochronology</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps">Geological maps</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data">Geophysical data</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data">Geoscientific data</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger">Hylogger</A><br>
-<A HREF="http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing">Remote sensing</A><br>
-
-
-<H4>Geological Survey of Victoria</H4>
-
-<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling">3D Geological Models</A><br>
-<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library">Drillcore Libray</a><br>
-<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic">GeoVic</a><br>
-<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data">Geochemical Data</a><br>
-<A HREF="https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data">Geophysical Data</a><br>
-
-
-<H4>Geological Survey of Western Australia</H4>
-<A HREF="https://dasc.dmp.wa.gov.au/dasc/">DMIRS Data and Software Centre</A><br>
-<A HREF="https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW">GeoView</A><br>
-<A HREF="http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx">Regional geophysical survey data</A>
-
-<H4>Other</H4>
-<A HREF="https://www.agriculture.gov.au/abares/data">ABARES: Australian Bureau of Agricultural and Resource Economics and Sciences</A><br>
-<A HREF="https://www.anzlic.gov.au/">ANZLIC – Spatial Information Council</A><br>
-<A HREF="https://data.aad.gov.au/">Australian Antarctic Data Centre – Dep of Environment &amp; Energy</A><br>
-<A HREF="https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information">Australian Government – Spatial information</A><br>
-<A HREF="https://data.gov.au/">Australian Government – data.gov.au</A><br>
-<A HREF="https://nationalmap.gov.au/">Australian Government – NationalMap</A><br>
-<A HREF="http://portal.auscope.org/">AuScope – Discovery Portal</A><br>
-<A HREF="https://www.auscope.org.au/">AuScope – Home</A><br>
-<A HREF="http://www.bom.gov.au/climate/data-services/">BOM – Bureau of Meteorlogy – Climate &amp; Oceans data</A><br>
-<A HREF="http://www.corstruth.com.au/">CorStruth – Hylogger Core Log Data</A><br>
-<A HREF="http://icsm.gov.au/">ICSM – Intergovernmental Committee on Surveying and Mapping</A><br>
-<A HREF="http://www.onegeology.org/use/home.html">OneGeology – Geoscience data</A><br>
-<A HREF="http://www.metoc.gov.au/">Meteorology &amp; Oceanograhy – Department of Defence (Navy)</A><br>
-
-
-
-
-<H1 FOLDED>GLOBAL</H1>
-<A HREF="https://github.com/onurakpolat/awesome-bigdata#readme">Awesome Big Data – Github</A><br>
-<A HREF="https://github.com/awesomedata/awesome-public-datasets">Awesome Public Datasets – Github</A>   <b>(Very Large, Very Awesome)</b><br>
-<A HREF="https://aws.amazon.com/opendata/">Open Data on AWS (Amazon Web Service)</A>
-<A HREF="http://www.diva-gis.org/gdata">DIVA-GIS (administrative boundaries, roads, elevation, landcover etc.)
-
-<H4>NASA: National Aeronautics and Space Administration</H4>
-<A HREF="https://api.nasa.gov/">NASA API</A>
-<A HREF="https://earthobservatory.nasa.gov/global-maps">Earth Observatory</A><br>
-<A HREF="https://worldview.earthdata.nasa.gov/">EOSDIS Worldview</A><br>
-<A HREF="https://firms.modaps.eosdis.nasa.gov/">FIRMS: Active Fire Data</A><br>
-
-
-<H4>USGS: United States Geological Survey</H4>
-<A HREF="https://earthexplorer.usgs.gov/">EarthExplorer</A><br>
-<A HREF="https://burnseverity.cr.usgs.gov/">National Burn Severity Mapping Project</A>  (USA)<br>
-<A HREF="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map">National Map</A>  (USA)<br>
-<A HREF="https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat">Remote Land Sensing and Landsat</A><br>
-<A HREF="https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47df9c">ScienceBase</A><br>
-
-
-<H4>Other</H4>
-
-<A HREF="https://databasin.org/">Data Basin – Conservation Biology Institute</A><br>
-<A HREF="https://earth.nullschool.net/">EarthWindMap – NullSchool</A><br>
-<A HREF="http://freegisdata.rtwilson.com/">Free GIS Datasets – Categorised List</A><br>
-<A HREF="https://developers.google.com/earth-engine/datasets/">Google Earth Engine</A><br>
-<A HREF="https://www.ncdc.noaa.gov/data-access">NOAA – National Oceanic and Atmospheric Administration</A>  (USA)<br>
-<A HREF="https://ourworldindata.org/">Our World in Data</A><br>
-<A HREF="https://apps.sentinel-hub.com/eo-browser/">Sentinel – EO Browser</A><br>
-<A HREF="https://droughtmonitor.unl.edu/">USA Drought Monitor</A>   (USA)<br>
-<A HREF="http://viirsfire.geog.umd.edu/map/viirsMap.php">VIIRS – Active Fire Global Map</A><br>
-
-<H1 FOLDED>Tutorials &amp; Troubleshooting</H1>
-
-<H4 FOLDED>ESRI ArcGIS</H4>
-Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.<br><br>
-<A HREF="https://geonet.esri.com"><b>ESRI Geonet Forums</b></A><br>
-<A HREF="https://learn.arcgis.com/en/arcgis-book/#home-overview">The ArcGIS Book</A><br>
-<A HREF="https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm">Get Started with ArcMap</A><br>
-<A HREF="https://learn.arcgis.com/en/projects/get-started-with-arcgis-pro/lessons/explore-the-study-area.htm">Get Started with ArcGIS Pro</A><br>
-<A HREF="https://learn.arcgis.com/en/">Learn ArcGIS</A><br>
-<A HREF="https://pro.arcgis.com/en/pro-app/get-started/pro-quickstart-tutorials.htm">Quick Start</A><br>
-<A HREF="https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb">ArcGIS Official Yotube Tutorials</A><br>
-<A HREF="https://www.reddit.com/r/arcgis/">ArcGIS Subreddit</A><br>
-
-<H4 FOLDED>QGIS</H4>
-<A HREF="https://docs.qgis.org/3.4/en/docs/training_manual/index.html">QGIS – Manual</A><br>
-<A HREF="https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw">Open Source Options</A><br>
-<A HREF="https://www.youtube.com/watch?v=j3cjMXYa63I">Spatial Exploration – Slope &amp; Aspect modelling</A><br>
-<A HREF="https://www.reddit.com/r/qgis/">QGIS Subreddit</A><br>
-
-<H4 FOLDED>Other</H4>
-<A HREF="https://gis.stackexchange.com/">GIS StackExchange</A> (for all your troubleshooting needs)<br>
-<A HREF="https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md">GIS roadmap</A><br>
-<A HREF="https://geo-python.github.io/site/">Geo-Python</A>   (free geo-centric Python programming course)<br>
-<A HREF="https://www.reddit.com/r/gis/">GIS subreddit</A><br>
-<A HREF="https://www.reddit.com/r/gis/wiki/index">GIS subreddit wiki</A><br>
-<A HREF="http://geoserver.org/">Geoserver</A>
+    A collection of links to GIS and remote sensing datasets, manuals, and tutorials.
+    * #####[Australia](Australia)
+        * [CSIRO](#CSIRO)
+        * [Geoscience Australia](#geoscience-australia)
+        * [Other](#other)
+        * [State Surveys](#state-surveys)
+          * [Geological Survey of NSW](#geological-survey-of-nsw)
+          * [Geological Survey of Queensland](#geological-survey-of-queensland)
+          * [Geological Survey of South Australia](#geological-survey-of-south-australia)
+          * [Geological Survey of Victoria](#geological-survey-of-victoria)
+          * [Geological Survey of Western Australia](#geological-survey-of-western-australia)
+    * #####[Global](#global)
+        * [NASA](#NASA)
+        * [USGS](#USGS)
+    
+    
+    ---
+    #AUSTRALIA
+    #####CSIRO 
+    ######Commonwealth Scientific and Industrial Research Organisation
+    [Oceans and Atmosphere](http://www.marine.csiro.au/datacentre/)
+    [Soil ASRIS](https://www.asris.csiro.au/)
+    [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html)
+    [CSIRO – The Spectral Geologist](https://research.csiro.au/thespectralgeologist/)
+    
+    
+    ######Geoscience Australia 
+    [AusAEM (airborne electromagnetic survey)](http://www.ga.gov.au/eftf/minerals/nawa/ausaem)
+    [AUSGIN: Australian Geoscience Information Network](http://www.geoscience.gov.au/)
+    [AUSGIN Portal](http://portal.geoscience.gov.au/)
+    [Bathymetry](http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry)
+    [Data &amp; Publications](https://www.ga.gov.au/data-pubs)
+    [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/)
+    [Earthquakes](https://earthquakes.ga.gov.au/)
+    [Digital Elevation (DEM)](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data)
+    [Interactive Maps (Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water)](http://maps.ga.gov.au/interactive-maps/#/)
+    [Product catalogue (eCat)](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/)
+    [Stratigraphic Units](https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units)
+    
+    ######Other
+    [ABARES: Australian Bureau of Agricultural and Resource Economics and Sciences](https://www.agriculture.gov.au/abares/data)
+    [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/)
+    [Australian Antarctic Data Centre – Dep of Environment &amp; Energy](https://data.aad.gov.au/)
+    [Australian Government – Spatial information](https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information)
+    [Australian Government – data.gov.au](https://data.gov.au/)
+    [Australian Government – NationalMap](https://nationalmap.gov.au/)
+    [AuScope – Discovery Portal](http://portal.auscope.org/)
+    [AuScope – Home](https://www.auscope.org.au/)
+    [BOM – Bureau of Meteorlogy – Climate &amp; Oceans data](http://www.bom.gov.au/climate/data-services/)
+    [CorStruth – Hylogger Core Log Data](http://www.corstruth.com.au/)
+    [ICSM – Intergovernmental Committee on Surveying and Mapping](http://icsm.gov.au/)
+    [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html)
+    [Meteorology &amp; Oceanograhy – Department of Defence (Navy)](http://www.metoc.gov.au/)
+    
+    ##State Surveys
+    ######Geological Survey of NSW
+    [<b>DIGS: Digital Imaging of Geological System</b>](https://search.geoscience.nsw.gov.au/)
+    [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library)
+    [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services)
+    [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data)
+    [MinEx CRC](https://minexcrc.com.au/)
+    [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/)
+    [SIX: Spatial Information Exchange](https://six.nsw.gov.au/)
+    [SEED: Sharing and Enabling Environmental Data](https://www.seed.nsw.gov.au/)
+    
+    
+    ######Geological Survey of Queensland
+    [GeoRes Globe](https://georesglobe.information.qld.gov.au/)
+    [Geoscience digital data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data)
+    [QDEX Data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data)
+    [QSpatial](https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial)
+    
+    
+    ######Geological Survey of South Australia
+    [<b>SARIG: South Australian Resource Information Gateway</b>](https://map.sarig.sa.gov.au/)
+    [3D geological models](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models)
+    [Geochronology](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology)
+    [Geological maps](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps)
+    [Geophysical data](http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data)
+    [Geoscientific data](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data)
+    [Hylogger](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger)
+    [Remote sensing](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing)
+    
+    
+    ######Geological Survey of Victoria
+    [3D Geological Models](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling)
+    [Drillcore Libray](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library)
+    [GeoVic](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic)
+    [Geochemical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data)
+    [Geophysical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data)
+    
+    
+    ######Geological Survey of Western Australia
+    [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/)
+    [GeoView](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW)
+    [Regional geophysical survey data](http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx)
+    
+    
+    ##GLOBAL
+    [Awesome Big Data Github](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
+    [Awesome Public Datasets – Github  <b>(Very Large, Very Awesome)</b>](https://github.com/awesomedata/awesome-public-datasets)
+    [Open Data on AWS (Amazon Web Service)](https://aws.amazon.com/opendata/)
+    [DIVA-GIS (administrative boundaries, roads, elevation, landcover etc.)](http://www.diva-gis.org/gdata)
+    
+    ##USA
+    #####NASA
+    ######National Aeronautics and Space Administration
+    [NASA API](https://api.nasa.gov/)
+    [Earth Observatory](https://earthobservatory.nasa.gov/global-maps)
+    [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/)
+    [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/)
+    
+    
+    ######USGS
+    #######United States Geological Survey
+    [EarthExplorer](https://earthexplorer.usgs.gov/)
+    [National Burn Severity Mapping Project (USA)](https://burnseverity.cr.usgs.gov/)
+    [National Map (USA)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map)
+    [Remote Land Sensing and Landsat](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) 
+    [ScienceBase](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47df9c)
+    
+    
+    ######Misc
+    [Data Basin – Conservation Biology Institute](https://databasin.org/)
+    [EarthWindMap – NullSchool](https://earth.nullschool.net/)
+    [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/)
+    [Google Earth Engine](https://developers.google.com/earth-engine/datasets/)
+    [NOAA – National Oceanic and Atmospheric Administration (USA)](https://www.ncdc.noaa.gov/data-access)
+    [Our World in Data](https://ourworldindata.org/)
+    [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/)
+    [USA Drought Monitor (USA)](https://droughtmonitor.unl.edu/)
+    [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php)
+    
+    
+    #Tutorials &amp; Troubleshooting
+    
+    
+    ##ESRI ArcGIS
+    Mostly official ArcGIS stuff because ESRI are pretty thorough with their documentation.
+    [ESRI Geonet Forums](https://geonet.esri.com)
+    [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview)
+    [Get Started with ArcMap](https://learn.arcgis.com/en/projects/get-started-with-arcmap/lessons/explore-the-study-area.htm)
+    [Get Started with ArcGIS Pro](https://learn.arcgis.com/en/projects/get-started-with-arcgis-pro/lessons/explore-the-study-area.htm)
+    [Learn ArcGIS](https://learn.arcgis.com/en/)
+    [Quick Start](https://pro.arcgis.com/en/pro-app/get-started/pro-quickstart-tutorials.htm)
+    [ArcGIS Official Yotube Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb)
+    [ArcGIS Subreddit](https://www.reddit.com/r/arcgis/)
+    
+    ##QGIS
+    [QGIS – Manual](https://docs.qgis.org/3.4/en/docs/training_manual/index.html)
+    [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw)
+    [Spatial Exploration – Slope &amp; Aspect modelling](https://www.youtube.com/watch?v=j3cjMXYa63I)
+    [QGIS Subreddit](https://www.reddit.com/r/qgis/)
+    
+    ##Other
+    [GIS StackExchange (for all your troubleshooting needs)](https://gis.stackexchange.com/)
+    [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md)
+    [Geo-Python (free geo-centric Python programming course)](https://geo-python.github.io/site/)
+    [GIS subreddit](https://www.reddit.com/r/gis/)
+    [GIS subreddit wiki](https://www.reddit.com/r/gis/wiki/index)
+    [Geoserver](http://geoserver.org/)
