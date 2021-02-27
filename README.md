@@ -1,5 +1,5 @@
 ## Mostly Australian GIS and Remote Sensing Resource List 
-A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect to datasets, web maps, manuals, tutorials, and programming information.
+A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect to datasets, web maps, manuals, tutorials, and developer tools.
 Primarily consists of Australian sources with an emphasis on geological data at present. 
 
 Coming soon:
@@ -23,7 +23,7 @@ Coming soon:
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
 * [Tutorials &amp; Troubleshooting](#tutorials-amp-troubleshooting)
-    * [ArcGIS](#arcgis)
+    * [ArcGIS](#esri-arcgis)
     * [QGIS](#qgis)
     * [Miscellaneous](#miscellaneous)
 
