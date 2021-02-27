@@ -75,7 +75,7 @@ Coming soon:
 - [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library) - information for access to drillcore data and free physical access to drillcore.
 - [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services) - online services at GSNSW.
 - [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data) - information for accessing geophysical images and data.
-- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/) - very advanced GIS tool for NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
+- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/) - very good web map tool for accessing NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
 - [Spatial Information Exchange (SIX)](https://six.nsw.gov.au/) - provides the spatial and cadastral products and services previously accessed from SIX.
 - [Sharing and Enabling Environmental Data (SEED)](https://www.seed.nsw.gov.au/) - SEED is the NSW Government’s central resource for Sharing and Enabling Environmental Data.
 
