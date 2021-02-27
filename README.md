@@ -1,7 +1,10 @@
 ## GIS Resource List 
-A collection of links to GIS (Geographic Information Systems) and remote sensing datasets, interactive maps, manuals, tutorials, and programming information.
-Primarily curated towards Australian sources with an emphasis on geological data at present.
+A curated list of GIS (Geographic Information Systems) and remote sensing links that connect to datasets, web maps, manuals, tutorials, and programming information.
+Primarily consists of Australian sources with an emphasis on geological data at present. 
 
+Coming soon:
+- More data
+- 
 
 ---
 * [Australia](Australia)
@@ -118,7 +121,7 @@ Primarily curated towards Australian sources with an emphasis on geological data
 
 
 ---
-## GLOBAL
+## Global
 - [Awesome Big Data Github](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
 - [Awesome Public Datasets – Github  <b>(Very Large, Very Awesome)</b>](https://github.com/awesomedata/awesome-public-datasets)
 - [Open Data on AWS (Amazon Web Service)](https://aws.amazon.com/opendata/)
@@ -172,7 +175,7 @@ QGIS is a free and open source Geographic Information System.
 
 ###### Miscellaneous
 - [GIS StackExchange](https://gis.stackexchange.com/) - for all your troubleshooting needs.
-- [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - this repository lays out a path to take someone with no GIS experience to a proficient GIS Developer.
+- [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
 - [GIS subreddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data. Using open standards set by the Open Geospatial Consortium, it allows for great flexibility in map creation and data sharing. 
