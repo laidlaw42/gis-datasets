@@ -7,7 +7,7 @@ Coming soon:
 - 
 
 ---
-* [Australia](Australia)
+* [Australia](#Australia)
     * [Commonwealth Scientific and Industrial Research Organisation (CSIRO)](#commonwealth-scientific-and-industrial-research-organisation-csiro)
     * [Geoscience Australia (GA)](#geoscience-australia-ga)
     * [Other](#other)
@@ -29,7 +29,7 @@ Coming soon:
 
  
 ---
-## AUSTRALIA
+## Australia
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
 - [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) - vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
 - [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) -  best publicly available information on soil and land resources in a consistent format across Australia
@@ -57,7 +57,7 @@ Coming soon:
 - [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/)
 - [Australian Antarctic Data Centre – Dep of Environment &amp; Energy](https://data.aad.gov.au/)
 - [Australian Government – Spatial information](https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information)
-- [Australian Government – data.gov.au](https://data.gov.au/)
+- [Australian Government – data.gov.au](https://data.gov.au/) - an easy way to find, explore and reuse Australia's public data
 - [Australian Government – NationalMap](https://nationalmap.gov.au/)
 - [AuScope – Discovery Portal](http://portal.auscope.org/)
 - [AuScope – Home](https://www.auscope.org.au/)
@@ -122,10 +122,10 @@ Coming soon:
 
 ---
 ## Global
-- [Awesome Big Data Github](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
+- [<b>Awesome Big Data Github</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) <br>
 - [Awesome Public Datasets – Github  <b>(Very Large, Very Awesome)</b>](https://github.com/awesomedata/awesome-public-datasets)
 - [Open Data on AWS (Amazon Web Service)](https://aws.amazon.com/opendata/)
-- [DIVA-GIS (administrative boundaries, roads, elevation, landcover etc.)](http://www.diva-gis.org/gdata)
+- [DIVA-GIS](http://www.diva-gis.org/gdata) - administrative boundaries, roads, elevation, landcover etc.
 - [Data Basin – Conservation Biology Institute](https://databasin.org/)
 - [EarthWindMap – NullSchool](https://earth.nullschool.net/)
 - [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/)
