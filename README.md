@@ -16,8 +16,8 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 ---
 #AUSTRALIA
-#####CSIRO 
-######Commonwealth Scientific and Industrial Research Organisation
+######CSIRO
+Commonwealth Scientific and Industrial Research Organisation
 - [Oceans and Atmosphere](http://www.marine.csiro.au/datacentre/)
 - [Soil ASRIS](https://www.asris.csiro.au/)
 - [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html)
