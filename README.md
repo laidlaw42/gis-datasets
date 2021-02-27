@@ -1,5 +1,7 @@
-# GIS List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## GIS Resource List 
 A collection of links to GIS and remote sensing datasets, manuals, and tutorials.
+Primarily curated towards Australian sources with an emphasis on geological data at present.
+
 
 ---
 
@@ -25,24 +27,25 @@ A collection of links to GIS and remote sensing datasets, manuals, and tutorials
 
 ## AUSTRALIA
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
-- [Oceans and Atmosphere](http://www.marine.csiro.au/datacentre/)
-- [Soil ASRIS](https://www.asris.csiro.au/)
-- [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html)
-- [CSIRO – The Spectral Geologist](https://research.csiro.au/thespectralgeologist/)
+- [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) - vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
+- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) -  best publicly available information on soil and land resources in a consistent format across Australia
+- [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html) - national soil attribute maps, 3D soil maps, regional soil maps
+- [Australian Soil Classification](https://www.clw.csiro.au/aclep/asc_re_on_line_V2/soilhome.htm) - online facility for all interested parties to assist with soil classification work
+- [The Spectral Geologist](https://research.csiro.au/thespectralgeologist/) - Mineralogical analysis
 
 
 ###### Geoscience Australia (GA)
-- [AusAEM (airborne electromagnetic survey)](http://www.ga.gov.au/eftf/minerals/nawa/ausaem)
-- [AUSGIN: Australian Geoscience Information Network](http://www.geoscience.gov.au/)
-- [AUSGIN Portal](http://portal.geoscience.gov.au/)
-- [Bathymetry](http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry)
-- [Data &amp; Publications](https://www.ga.gov.au/data-pubs)
-- [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/)
-- [Earthquakes](https://earthquakes.ga.gov.au/)
-- [Digital Elevation (DEM)](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data)
-- [Interactive Maps (Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water)](http://maps.ga.gov.au/interactive-maps/#/)
-- [Product catalogue (eCat)](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/)
-- [Stratigraphic Units](https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units)
+- [AusAEM](http://www.ga.gov.au/eftf/minerals/nawa/ausaem) - airborne electromagnetic survey
+- [Australian Geoscience Information Network (AUSGIN)](http://www.geoscience.gov.au/) - gives people and companies interested in exploring for minerals in Australia a single point of access for information about mineral resource exploration in all Australian jurisdictions, and to geological and geophysical data from all Australian governments.
+- [AUSGIN Portal](http://portal.geoscience.gov.au/) - Data discovery and analysis portal for geoscience data from all of Australia's state, territory and federal governments
+- [Bathymetry](http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry) - Australia wide bathymetry data
+- [Data &amp; Publications](https://www.ga.gov.au/data-pubs) - central repository for many GA products
+- [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/) - national bushfire monitoring system that provides timely information about hotspots to emergency service managers and critical infrastructure providers across Australia.
+- [Earthquakes](https://earthquakes.ga.gov.au/) - monitors, analyses and reports on significant earthquakes
+- [Digital Elevation (DEM)](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data) - Digital elevation data which describes Australia's landforms and seabed
+- [Interactive Maps](http://maps.ga.gov.au/interactive-maps/#/) - Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water
+- [Product catalogue (eCat)](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/) - This includes Geoscience Australia records, Professional opinions, Reports, Scientific papers, Promotional material and Presentations. 
+- [Australian Stratigraphic Units Database](https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units) - Provides the primary national standard for geological names in Australia and improves the efficiency and effectiveness of communication of geological unit information.
 
 
 ###### Other
