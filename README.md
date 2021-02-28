@@ -164,12 +164,14 @@ Primarily consists of Australian sources with an emphasis on geological data at 
 - [ArcGIS Official Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb) - tutorials for ArcGIS on Youtube.
 - [ArcGIS Subreddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
 
+
 ###### QGIS
 [QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers
 - [QGIS – Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
 - [Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
 - [QGIS Subreddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
+
 
 ###### Miscellaneous
 - [GIS StackExchange](https://gis.stackexchange.com/) - a place for all your troubleshooting needs relating to all things GIS.
