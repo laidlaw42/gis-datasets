@@ -73,31 +73,30 @@ Coming soon:
 - [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library) - information for access to drillcore data and free physical access to drillcore.
 - [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services) - online services at GSNSW.
 - [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data) - information for accessing geophysical images and data.
-- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/) - very good web map tool for accessing NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
+- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/) - very extensive and fast web map tool for accessing NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
 - [Spatial Information Exchange (SIX)](https://six.nsw.gov.au/) - provides the spatial and cadastral products and services previously accessed from SIX.
 - [Sharing and Enabling Environmental Data (SEED)](https://www.seed.nsw.gov.au/) - SEED is the NSW Government’s central resource for Sharing and Enabling Environmental Data.
 
 
 ###### Geological Survey of Queensland (GSQ)
-- [GeoRes Globe](https://georesglobe.information.qld.gov.au/)
-- [Geoscience digital data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data)
-- [QDEX Data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data)
-- [QSpatial](https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/data/qspatial)
+- [GeoRes Globe](https://georesglobe.information.qld.gov.au/) - provides an online interactive experience to view Queensland’s mining and exploration data.
+- [Geoscience digital data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/digital-data) - datasets are sourced from GSQ projects and from statutory reports lodged by exploration companies.
+- [QDEX Data](https://www.business.qld.gov.au/industries/mining-energy-water/resources/minerals-coal/online-services/qdex-data) - wide range of Queensland geoscience datasets, company statutory reports and publications.
+- [QSpatial](http://qldspatial.information.qld.gov.au/catalogue/custom/index.page) - map coverage data, image data and text file data.
 
 
 ###### Geological Survey of South Australia (GSSA)
-- [<b>SARIG: South Australian Resource Information Gateway</b>](https://map.sarig.sa.gov.au/)
-- [3D geological models](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models)
-- [Geochronology](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/geochronology)
-- [Geological maps](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps)
-- [Geophysical data](http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data)
-- [Geoscientific data](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data)
-- [Hylogger](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger)
-- [Remote sensing](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing)
+- [<b>SARIG: South Australian Resource Information Gateway</b>](https://map.sarig.sa.gov.au/) - web map for accessing South Australian geoscientific and geospatial data.
+- [3D geological models](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models) - 3D geological models.
+- [Exploration data releases](https://energymining.sa.gov.au/minerals/exploration/exploration_data_releases) - exploration data newly indexed in SARIG.
+- [Geological maps](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps) - access to printable physical maps. 
+- [Geophysical data](http://energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/sarig/geophysical_data) - instructions on how to access geophysical data in SARIG.
+- [Hylogger](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/hylogger) - core scanner is a rapid spectroscopic core and chip logging and imaging system developed by CSIRO's Mineral Mapping Technologies Group.
+- [Remote sensing](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/remote_sensing) - spectral imaging to map surface geology and mineralogy.
 
 
 ###### Geological Survey of Victoria (GSV)
-- [3D Geological Models](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling)
+- [3D Geological Models](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling) 
 - [Drillcore Libray](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library)
 - [GeoVic](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic)
 - [Geochemical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data)
