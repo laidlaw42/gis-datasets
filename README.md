@@ -14,7 +14,7 @@ Primarily consists of Australian sources with an emphasis on geological data at 
         * [Geological Survey of South Australia](#geological-survey-of-south-australia-gssa)
         * [Geological Survey of Victoria](#geological-survey-of-victoria-gsv)
         * [Geological Survey of Western Australia](#geological-survey-of-western-australia-gswa)
-        * [Mineral Resources Tamania](#mineral-resources-tasmania-mrt)
+        * [Mineral Resources Tasmania](#mineral-resources-tasmania-mrt)
         * [Northern Territory Geological Survey](#northern-territory-geological-survey-ntgs)
 * [Global](#global)
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
