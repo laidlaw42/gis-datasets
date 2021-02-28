@@ -132,6 +132,7 @@ Primarily consists of Australian sources with an emphasis on geoscience and geos
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/data-access) - access to weather and water datasets across the USA.
 - [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html) - makes data from geological data providers around the world accessible to those who would like to see and use it.
 - [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world’s largest problems.
+- [Science on a Sphere](https://sos.noaa.gov/What_is_SOS/) - a room sized, global display system that uses computers and video projectors to display planetary data onto a six foot diameter sphere, analogous to a giant animated globe. More interesting than useful.
 - [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/) - interactive web map for locating satellite and remote sensing data.
 - [United States Drought Monitor](https://droughtmonitor.unl.edu/) - USA drought datasets and pre-made maps.
 - [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php) - interactive web map depicting global active fires.
