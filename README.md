@@ -177,3 +177,4 @@ Primarily consists of Australian sources with an emphasis on geological data at 
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
 - [GIS subreddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
+- [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
