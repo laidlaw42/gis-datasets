@@ -1,8 +1,8 @@
 ## Mostly Australian GIS and Remote Sensing Resource List 
 A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect to datasets, web maps, manuals, tutorials, and developer tools.
 Primarily consists of Australian sources with an emphasis on geoscience and geospatial data at present.
+This is a work in progress and there are many changes to be made.
 
-[![GIS] (https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80)](https://unsplash.com/photos/Q1p7bh3SHj8)
 ---
 * [Australia](#Australia)
     * [Commonwealth Scientific and Industrial Research Organisation (CSIRO)](#commonwealth-scientific-and-industrial-research-organisation-csiro)
@@ -16,13 +16,15 @@ Primarily consists of Australian sources with an emphasis on geoscience and geos
         * [Geological Survey of Western Australia](#geological-survey-of-western-australia-gswa)
         * [Mineral Resources Tasmania](#mineral-resources-tasmania-mrt)
         * [Northern Territory Geological Survey](#northern-territory-geological-survey-ntgs)
-* [Global](#global)
+* [Global datasets](#global)
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
-* [Tutorials &amp; Troubleshooting](#tutorials-amp-troubleshooting)
+* [Software](#software)
+    * [Communities](#communities)
     * [ArcGIS](#esri-arcgis)
     * [QGIS](#qgis)
-    * [Miscellaneous](#miscellaneous)
+    * [Developer](#developer)
+    * [Reference](#reference)
 
  
 ---
@@ -155,31 +157,39 @@ Primarily consists of Australian sources with an emphasis on geoscience and geos
 
 
 ---
-## Tutorials &amp; Troubleshooting
-###### ESRI ArcGIS
-[ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
-- [ESRI Community](https://community.esri.com) - ESRI's official forum.
-- [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about GIS.
-- [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
-- [ArcMap](https://desktop.arcgis.com/en/arcmap/) - a good resource for finding information about functions and concepts in ArcMap.
-- [ArcGIS Official Tutorials](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJFxX_Bhp98MJEw5ItRtvb) - tutorials for ArcGIS on Youtube.
-- [ArcGIS on Reddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
-- [Shapefile types/extensions](https://gisgeography.com/arcgis-shapefile-files-types-extensions/) - explains the function of the ArcGIS extensions like .dbf or .sbn.
-- [Feature class basics](https://desktop.arcgis.com/en/arcmap/10.6/manage-data/geodatabases/feature-class-basics.htm) - Feature classes are homogeneous collections of common features, each having the same spatial representation, such as points, lines, or polygons, and a common set of attribute columns.
+## Software
 
-###### QGIS
-[QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers
-- [QGIS – Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
-- [Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
-- [Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
+###### Communities
+- [ArcGIS Community](https://community.esri.com) - ESRI's official forum.
+- [GIS StackExchange](https://gis.stackexchange.com/) - a place for all your troubleshooting needs relating to all things GIS, primary forum for QGIS.
+- [ArcGIS on Reddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
+- [GIS on Reddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
 - [QGIS on Reddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
 
 
-###### Miscellaneous
-- [Ultimate List of GIS Formats and Geospatial File Extensions](https://gisgeography.com/gis-formats/) - descriptions of the functions of GIS data formats.
-- [GIS StackExchange](https://gis.stackexchange.com/) - a place for all your troubleshooting needs relating to all things GIS.
-- [GIS roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
+###### ESRI ArcGIS
+  [ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
+- [ArcMap](https://desktop.arcgis.com/en/arcmap/) - the functions and concepts in ArcMap.
+- [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
+- [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about ArcGIS and GIS in general.
+
+
+###### QGIS
+  [QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
+- [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
+- [QGIS - Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
+- [QGIS - Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
+
+
+###### Developer
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
-- [GIS on Reddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
+- [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
 - [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
+
+
+###### Reference
+- [ArcGIS Shapefile types and extensions](https://gisgeography.com/arcgis-shapefile-files-types-extensions/) - explains the function of the ArcGIS extensions like .dbf or .sbn.
+- [Feature class basics](https://desktop.arcgis.com/en/arcmap/10.6/manage-data/geodatabases/feature-class-basics.htm) - Feature classes are homogeneous collections of common features, each having the same spatial representation, such as points, lines, or polygons, and a common set of attribute columns.
+- [Metadata Good Practice Guide](https://www.anzlic.gov.au/resources/asnzs-iso-1911512015-metadata) - guidelines for collecting geographic metadata in Australia and New Zealand (AS/NZS ISO 19115.1:2015).
+- [Ultimate List of GIS Formats and Geospatial File Extensions](https://gisgeography.com/gis-formats/) - descriptions of the functions of GIS data formats.
