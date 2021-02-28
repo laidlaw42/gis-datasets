@@ -117,7 +117,7 @@ Coming soon:
 
 
 ###### Northern Territory Geological Survey (NTGS)
-- [Geoscience Exploration and Mining Information System (GEMIS)](https://geoscience.nt.gov.au/gemis/) - access to almost everything including: geophysical and remote sensing data, hylogger, WMS, geotechnical and mine reports, drillcore library, web maps etc.
+- [Geoscience Exploration and Mining Information System (GEMIS)](https://geoscience.nt.gov.au/gemis/) - access to almost everything including: geophysical and remote sensing data, hylogger, WMS, geotechnical and mine reports, and drillcore library.
 - [Mining and petroleum ](https://nt.gov.au/industry/mining-and-petroleum) - central repository for NT datasets. 
 
 ---
