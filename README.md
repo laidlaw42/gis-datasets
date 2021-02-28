@@ -96,26 +96,29 @@ Coming soon:
 
 
 ###### Geological Survey of Victoria (GSV)
-- [3D Geological Models](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling) 
-- [Drillcore Libray](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library)
-- [GeoVic](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic)
-- [Geochemical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data)
-- [Geophysical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data)
+- [3D Geological Models](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/3d-geological-modelling) - 3D geological dataset of Victoria.
+- [Drillcore Libray](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/drill-core-library) - information for accessing GSV core library.
+- [GeoVic](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic) - free online mapping application that enables you to build your own earth resource related maps, perform searches and access data, using a huge range of data sources.
+- [Geochemical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geochemistry-data) - GSV analysis of open file geochemistry data has identified numerous areas of under-explored prospective terrain.
+- [Geophysical Data](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geophysics-data) - geophysical data from across the state.
 
 
 ###### Geological Survey of Western Australia (GSWA)
-- [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/)
-- [GeoView](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW)
-- [Regional geophysical survey data](http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx)
+- [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/) - spatial datasets, geology series map data, resources such as Department of Mines, Industry Regulation and Safety (DMIRS) software (including user guides and videos where available), and documentation on map services provided by DMIRS.
+- [GeoView](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoVIEW) - web GIS tool for finding geoscience datasets in Western Australia (WA).
+- [Regional geophysical survey data](http://www.dmp.wa.gov.au/Geological-Survey/Regional-geophysical-survey-data-1392.aspx) - data from regional airborne magnetic, radiometric and electromagnetic surveys, ground gravity surveys and deep seismic and magnetotelluric surveys in WA.
 
 
-###### Mineral Resources Tasmania
-- [To be added]() - soonish
+###### Mineral Resources Tasmania (MRT)
+- [Digital data](https://www.mrt.tas.gov.au/products/digital_data) - spatial datasets, drill hold data, scale maps, web map service (WMS).
+- [Geoscience maps](https://www.mrt.tas.gov.au/products/geoscience_maps) - extensive collection of geoscience maps and mine plans.
+- [National Virtual Core Library](https://www.mrt.tas.gov.au/geoscience/national_virtual_core_library) - information on accessing MRT's hylogger datasets. 
+- [Tasmanian Information on Geoscience and Exploration Resources (TIGER)](https://www.mrt.tas.gov.au/products/database_searches) -  information management system which provides a single storage environment for MRT's corporate data and enables access to this corporate data and associated metadata using customised textual and spatial searches.
 
 
-###### Northern Territory Geological Survey
-- [To be added]() - soonish
-
+###### Northern Territory Geological Survey (NTGS)
+- [Geoscience Exploration and Mining Information System (GEMIS)](https://geoscience.nt.gov.au/gemis/) - access to almost everything including: geophysical and remote sensing data, hylogger, WMS, geotechnical and mine reports, drillcore library, web maps etc.
+- [Mining and petroleum ](https://nt.gov.au/industry/mining-and-petroleum) - central repository for NT datasets. 
 
 ---
 ## Global
