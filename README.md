@@ -1,10 +1,7 @@
 ## Mostly Australian GIS and Remote Sensing Resource List 
 A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect to datasets, web maps, manuals, tutorials, and developer tools.
-Primarily consists of Australian sources with an emphasis on geological data at present. 
+Primarily consists of Australian sources with an emphasis on geological data at present.
 
-Coming soon:
-- More datasets.
-- Descriptions for every item.
 
 ---
 * [Australia](#Australia)
@@ -120,9 +117,10 @@ Coming soon:
 - [Geoscience Exploration and Mining Information System (GEMIS)](https://geoscience.nt.gov.au/gemis/) - access to almost everything including: geophysical and remote sensing data, hylogger, WMS, geotechnical and mine reports, and drillcore library.
 - [Mining and petroleum ](https://nt.gov.au/industry/mining-and-petroleum) - central repository for NT datasets. 
 
+
 ---
 ## Global
-- [<b>Awesome</b> - Everything](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
+- [<b>Awesome - Everything</b>](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
 - [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
 - [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious aren't fruitful.
 - [Amazon Web Service (AWS) Registry of Open Data](https://registry.opendata.aws/) - discover and share datasets that are available via AWS resources (landsat, genome, weather, medical, etc.).
