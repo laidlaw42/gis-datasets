@@ -1,4 +1,4 @@
-## Geospatial datasets
+## GIS & Remote Sensing Datasets
 
 
 ---
@@ -35,7 +35,7 @@
  
 ---
 ## Introduction
-This repository is a curated list of Geographic Information Systems (GIS) and remote sensing links that connect you to downloadable datasets on the web relatively quickly.
+This repository is a curated list of GIS (Geographic Information Systems) and remote sensing links that connect you to downloadable datasets on the web relatively quickly.
 
 It also includes some links to web and developer tools, educational material, general reference texts, and documentation.
 
