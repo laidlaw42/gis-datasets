@@ -4,6 +4,7 @@ web and developer tools, educational material, general reference texts, and docu
 Primarily consists of Australian sources with an emphasis on geoscience and geospatial data at present.
 This is a work in progress and there are many changes to be made.
 
+<img src="https://unsplash.com/photos/Q1p7bh3SHj8"><img/>
 ---
 ## Table of Contents
 * [Australia](#Australia)
@@ -130,6 +131,10 @@ This is a work in progress and there are many changes to be made.
 
 ---
 ## Global
+
+This is a collection of international dataset sources. Many of the datasets for the United States of America (USA) host data for many parts of the world, particularly NASA, NOAA, and USGS.
+The subject of the datasets here are quite numerous and variable in both content type and volume, covering everything from science, technology, economics, finance, social science, and so on.
+
 - [<b>Awesome - Everything</b>](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
 - [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
 - [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious aren't fruitful.
@@ -158,14 +163,15 @@ This is a work in progress and there are many changes to be made.
 ###### United States Geological Survey (USGS)
 - [Data and Tools](https://www.usgs.gov/products/data-and-tools/real-time-data) - real-time data, APIs, catalogues, datasets, and tools.
 - [EarthExplorer](https://earthexplorer.usgs.gov/) - web map interface and filter tool for find remote sensing data (TIFF, KML, shapefiles).
-- [National Burn Severity Mapping Project](https://burnseverity.cr.usgs.gov/) - provides comprehensive access to federal burn severity data.
-- [National Map](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) - a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the USA.
+- [National Burn Severity Mapping Project (USA)](https://burnseverity.cr.usgs.gov/) - provides comprehensive access to federal burn severity data.
+- [National Map (USA)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) - a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the USA.
 - [Remote Land Sensing and Landsat](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) - real-time GIS data for many fields (volcanoes, )
 - [ScienceBase](https://www.sciencebase.gov/catalog/community/list) - a very extensive data repository for information on everything from geological, biological, marine and more. 
 
 
 ---
 ## Other useful stuff
+The links here are mostly for reference and includes educational material, the most common places to get advice and troubleshoot, useful tutorials, and developer tools.
 
 ###### Communities
 - [ArcGIS Community](https://community.esri.com) - ESRI's official forum.
@@ -191,17 +197,19 @@ This is a work in progress and there are many changes to be made.
 - [Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/index.html) - official training manual.
 
 
-###### Developer
-- [Think Python](https://greenteapress.com/wp/think-python-2e/) - a good introductory text to learning Python.
+###### Developer Education
+A list of learning materials for learning how to program in Python. I would recommend starting at the [<b>GIS Programming Roadmap</b>](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) is a decent place to keep track of your dev journey and find more advanced tools. The <b>Think Python<b> text offers a pretty gentle introduction into the Python programming language.
 - [Data Science in Python](https://greenteapress.com/wp/) - free texts for data science programming in Python.
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - popular data analysis libraries in Python such as Numpy and Pandas.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - free textbook on the popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
-- [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
 - [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
 - [Python for GIS progression path](https://github.com/AlexArcPy/python-for-gis-progression-path) - progression path for a GIS analyst who wants to become proficient in using Python for GIS: from apprentice to guru
+- [Think Python](https://greenteapress.com/wp/think-python-2e/) - a good introductory text to learning Python.
+
+
+###### Servers &amp; Tools
+- [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
 - [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
-
-
 
 ###### Reference
 - [ArcGIS Shapefile types and extensions](https://gisgeography.com/arcgis-shapefile-files-types-extensions/) - explains the function of the ArcGIS extensions like .dbf or .sbn.
