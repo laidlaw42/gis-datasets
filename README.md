@@ -4,6 +4,7 @@ Primarily consists of Australian sources with an emphasis on geoscience and geos
 This is a work in progress and there are many changes to be made.
 
 ---
+## Table of Contents
 * [Australia](#Australia)
     * [Commonwealth Scientific and Industrial Research Organisation (CSIRO)](#commonwealth-scientific-and-industrial-research-organisation-csiro)
     * [Geoscience Australia (GA)](#geoscience-australia-ga)
@@ -176,9 +177,11 @@ This is a work in progress and there are many changes to be made.
 
 ###### QGIS
   [QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
+- [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.htmlP) - a gentle introduction to GIS concepts.
 - [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [QGIS - Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
 - [QGIS - Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
+- [Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/index.html) - official training manual.
 
 
 ###### Developer
