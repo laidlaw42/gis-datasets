@@ -33,12 +33,10 @@ This is a work in progress and there are many changes to be made.
 ## Australia
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
 - [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/)
-  
-    vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
+  Vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
   
 
-- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) 
-  
+- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/)
     Best publicly available information on soil and land resources in a consistent format.
   
 
