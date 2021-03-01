@@ -1,10 +1,4 @@
-## Mostly Australian GIS and Remote Sensing Resource List 
-A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect you to datasets quickly. 
-web and developer tools, educational material, general reference texts, and documentation.
-Primarily consists of Australian sources with an emphasis on geoscience and geospatial data at present.
-This is a work in progress and there are many changes to be made.
-
-
+## Mostly Australian GIS and Remote Sensing Resource List
 <p align="center">
 <img src="https://i.imgur.com/a0v51XN.jpg">
 </p>
@@ -12,10 +6,11 @@ This is a work in progress and there are many changes to be made.
 
 ---
 ## Table of Contents
-* [Australia](#Australia)
+* [Introduction](#introduction)
+* [Australia](#australia)
     * [Commonwealth Scientific and Industrial Research Organisation (CSIRO)](#commonwealth-scientific-and-industrial-research-organisation-csiro)
     * [Geoscience Australia (GA)](#geoscience-australia-ga)
-    * [Other](#other)
+    * [Miscellaneous](#miscellaneous)
     * [State Geological Surveys](#state-geological-surveys)
         * [Geological Survey of NSW](#geological-survey-of-nsw-gsnsw)
         * [Geological Survey of Queensland](#geological-survey-of-queensland-gsq)
@@ -36,16 +31,21 @@ This is a work in progress and there are many changes to be made.
 
  
 ---
+## Introduction
+This repository is a curated list of Geographic Information Systems (GIS) and remote sensing links that connect you to downloadable datasets on the web relatively quickly.
+It also includes some links to web and developer tools, educational material, general reference texts, and documentation.
+Most of my effort will be in adding Australian data sources with an emphasis on geoscience and geospatial data at present. The descriptions after each link should tell you what you need to know and are (mostly) tagged with the relevant information or acronyms. Search terms within the browser (Win: Ctrl+F, Mac: Cmd+F) as usual.
+
+This is a work-in-progress, please feel free to contribute or comment on any errors I have made.
+
+
+---
 ## Australia
+All the datasets here are sourced from government agencies across Australia. 
+
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
-- [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/)
-  Vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
-  
-
-- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/)
-    Best publicly available information on soil and land resources in a consistent format.
-  
-
+- [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) - vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
+- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) - best publicly available information on soil and land resources in a consistent format.
 - [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html) - national soil attribute maps, 3D soil maps, regional soil maps.
 - [Australian Soil Classification](https://www.clw.csiro.au/aclep/asc_re_on_line_V2/soilhome.htm) - online facility for all interested parties to assist with soil classification work.
 - [The Spectral Geologist](https://research.csiro.au/thespectralgeologist/) - industry standard tool for the mineralogical analysis of VIS/NIR/SWIR/MIR and TIR reflectance spectra.
@@ -53,19 +53,18 @@ This is a work in progress and there are many changes to be made.
 
 ###### Geoscience Australia (GA)
 - [AusAEM](http://www.ga.gov.au/eftf/minerals/nawa/ausaem) - access to airborne electromagnetic surveys.
-- [Australian Geoscience Information Network (AUSGIN)](http://www.geoscience.gov.au/) - gives people and companies interested in exploring for minerals in Australia a single point of access for information about mineral resource exploration in all Australian jurisdictions, and to geological and geophysical data from all Australian governments.
-- [AUSGIN Portal](http://portal.geoscience.gov.au/) - Data discovery and analysis portal for geoscience data from all of Australia's state, territory and federal governments.
-- [Bathymetry](http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry) - Australia wide bathymetry data and general information.
+- [Australian Geoscience Information Network (AUSGIN)](http://www.geoscience.gov.au/) - data discovery and analysis portal for geoscience and mineral resources data from all of Australia's state, territory and federal governments.
+- [Bathymetry](http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry) - Australia-wide bathymetric data and general information.
 - [Data &amp; Publications](https://www.ga.gov.au/data-pubs) - central repository for many GA products.
 - [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/) - national bushfire monitoring system that provides timely information about hotspots to emergency service managers and critical infrastructure providers across Australia.
-- [Earthquakes](https://earthquakes.ga.gov.au/) - monitors, analyses and reports on significant earthquakes.
 - [Digital Elevation (DEM)](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data) - digital elevation data which describes Australia's landforms and seabed.
+- [Earthquakes](https://earthquakes.ga.gov.au/) - monitors, analyses and reports on significant earthquakes.
 - [Interactive Maps](http://maps.ga.gov.au/interactive-maps/#/) - Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water.
 - [Product catalogue (eCat)](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/) - includes GA records, professional opinions, reports, scientific papers, promotional material and presentations. 
-- [Australian Stratigraphic Units Database](https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units) - provides the primary national standard for geological names in Australia and improves the efficiency and effectiveness of communication of geological unit information.
+- [Stratigraphic Units Database](https://www.ga.gov.au/data-pubs/datastandards/stratigraphic-units) - provides the primary national standard for geological names in Australia and improves the efficiency and effectiveness of communication of geological unit information.
 
 
-###### Other
+###### Miscellaneous
 - [Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)](https://www.agriculture.gov.au/abares/data) - ABARES produce tools, models, data and metadata to help agricultural, fisheries and forestry industries make decisions.
 - [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/) - peak intergovernmental organisation providing leadership in the collection, management and use of spatial information in Australia and New Zealand.
 - [Australian Antarctic Data Centre](https://data.aad.gov.au/) - repository for Antarctica datasets.
@@ -82,7 +81,7 @@ This is a work in progress and there are many changes to be made.
 
 ## State Geological Surveys
 ###### Geological Survey of NSW (GSNSW)
-- [<b>DIGS: Digital Imaging of Geological System</b>](https://search.geoscience.nsw.gov.au/) - DIGS is a public, online archive that provides access to non-confidential reports and other important documentary material held by the GSNSW
+- [<b>Digital Imaging of Geological System (DIGS)</b>](https://search.geoscience.nsw.gov.au/) - DIGS is a public, online archive that provides access to non-confidential reports and other important documentary material held by the GSNSW
 - [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library) - information for access to drillcore data and free physical access to drillcore.
 - [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services) - online services at GSNSW.
 - [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data) - information for accessing geophysical images and data.
@@ -99,7 +98,7 @@ This is a work in progress and there are many changes to be made.
 
 
 ###### Geological Survey of South Australia (GSSA)
-- [<b>SARIG: South Australian Resource Information Gateway</b>](https://map.sarig.sa.gov.au/) - web map for accessing South Australian geoscientific and geospatial data.
+- [<b>South Australian Resource Information Gateway (SARIG)</b>](https://map.sarig.sa.gov.au/) - web map for accessing South Australian geoscientific and geospatial data.
 - [3D geological models](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models) - 3D geological models.
 - [Exploration data releases](https://energymining.sa.gov.au/minerals/exploration/exploration_data_releases) - exploration data newly indexed in SARIG.
 - [Geological maps](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps) - access to printable physical maps. 
@@ -136,9 +135,9 @@ This is a work in progress and there are many changes to be made.
 
 ---
 ## Global
-
 This is a collection of datasets from around the world. Many of the datasets for the USA host data for other parts of the world, particularly NASA, NOAA, and USGS.
 The datasets here are quite numerous and variable in both content type and volume, covering everything from science, technology, economics, finance, social science, and more.
+
 
 - [<b>Awesome - Everything</b>](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
 - [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
