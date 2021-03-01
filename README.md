@@ -33,11 +33,10 @@
 ---
 ## Introduction
 This repository is a curated list of Geographic Information Systems (GIS) and remote sensing links that connect you to downloadable datasets on the web relatively quickly.
+
 It also includes some links to web and developer tools, educational material, general reference texts, and documentation.
 
-
 Most of my effort will be in adding Australian data sources with an emphasis on geoscience and geospatial data at present. The descriptions after each link should tell you what you need to know and are (mostly) tagged with the relevant information or acronyms. Search terms within the browser (Win: Ctrl+F, Mac: Cmd+F) as usual.
-
 
 This is a work-in-progress, please feel free to contribute or comment on any errors I have made.
 
