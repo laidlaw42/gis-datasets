@@ -44,7 +44,7 @@ This is a work-in-progress, please feel free to contribute or comment on any err
 
 ---
 ## Australia
-All the datasets here are sourced from government agencies across Australia. 
+All the datasets here are sourced from Australian government agencies. 
 
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
 - [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) - vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
