@@ -39,7 +39,7 @@ This repository is a curated list of GIS (Geographic Information Systems) and re
 
 It also includes some links to web and developer tools, educational material, general reference texts, and documentation.
 
-Most of my effort will be in adding Australian data sources with an emphasis on geoscience and geospatial data at present. The descriptions after each link should tell you what you need to know and are (mostly) tagged with the relevant information or acronyms. Search terms within the browser (Win: Ctrl+F, Mac: Cmd+F) as usual.
+Most of my effort will be in adding Australian data sources with an emphasis on geoscience and geospatial data at present. The descriptions after each link should tell you what you need to know and are (mostly) tagged with the relevant information or acronyms. Search terms within the browser as usual (Win: Ctrl+F, Mac: Cmd+F).
 
 This is a work-in-progress, please feel free to contribute or comment on any errors I have made.
 
