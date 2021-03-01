@@ -1,5 +1,6 @@
 ## Mostly Australian GIS and Remote Sensing Resource List 
-A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect to datasets, web maps, manuals, tutorials, and developer tools.
+A curated list of GIS (Geographic Information Systems) and remote sensing (RS) links that connect you to datasets quickly. 
+web and developer tools, educational material, general reference texts, and documentation.
 Primarily consists of Australian sources with an emphasis on geoscience and geospatial data at present.
 This is a work in progress and there are many changes to be made.
 
@@ -20,7 +21,7 @@ This is a work in progress and there are many changes to be made.
 * [Global datasets](#global)
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
-* [Software](#software)
+* [Other Useful Stuff](#other-useful-stuff)
     * [Communities](#communities)
     * [ArcGIS](#esri-arcgis)
     * [QGIS](#qgis)
@@ -31,8 +32,16 @@ This is a work in progress and there are many changes to be made.
 ---
 ## Australia
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
-- [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) - vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
-- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) -  best publicly available information on soil and land resources in a consistent format across Australia.
+- [Oceans and Atmosphere - National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/)
+  
+    vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
+  
+
+- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) 
+  
+    Best publicly available information on soil and land resources in a consistent format.
+  
+
 - [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html) - national soil attribute maps, 3D soil maps, regional soil maps.
 - [Australian Soil Classification](https://www.clw.csiro.au/aclep/asc_re_on_line_V2/soilhome.htm) - online facility for all interested parties to assist with soil classification work.
 - [The Spectral Geologist](https://research.csiro.au/thespectralgeologist/) - industry standard tool for the mineralogical analysis of VIS/NIR/SWIR/MIR and TIR reflectance spectra.
@@ -158,7 +167,7 @@ This is a work in progress and there are many changes to be made.
 
 
 ---
-## Software
+## Other useful stuff
 
 ###### Communities
 - [ArcGIS Community](https://community.esri.com) - ESRI's official forum.
@@ -185,10 +194,15 @@ This is a work in progress and there are many changes to be made.
 
 
 ###### Developer
+- [Think Python](https://greenteapress.com/wp/think-python-2e/) - a good introductory text to learning Python.
+- [Data Science in Python](https://greenteapress.com/wp/) - free texts for data science programming in Python.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
 - [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
+- [Python for GIS progression path](https://github.com/AlexArcPy/python-for-gis-progression-path) - progression path for a GIS analyst who wants to become proficient in using Python for GIS: from apprentice to guru
 - [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
+
 
 
 ###### Reference
