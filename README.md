@@ -4,7 +4,12 @@ web and developer tools, educational material, general reference texts, and docu
 Primarily consists of Australian sources with an emphasis on geoscience and geospatial data at present.
 This is a work in progress and there are many changes to be made.
 
-<img src="https://unsplash.com/photos/nasa-Q1p7bh3SHj8-unsplash.jpg"><img/>
+
+<p align="center">
+<img src="https://imgur.com/a0v51XN">
+</p>
+
+
 ---
 ## Table of Contents
 * [Australia](#Australia)
@@ -22,11 +27,11 @@ This is a work in progress and there are many changes to be made.
 * [Global datasets](#global)
     * [National Aeronautics and Space Administration (NASA)](#national-aeronautics-and-space-administration-nasa)
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
-* [Other Useful Stuff](#other-useful-stuff)
+* [Other](#other)
     * [Communities](#communities)
     * [ArcGIS](#esri-arcgis)
     * [QGIS](#qgis)
-    * [Developer](#developer)
+    * [Developer Education](#developer-education)
     * [Reference](#reference)
 
  
@@ -132,18 +137,19 @@ This is a work in progress and there are many changes to be made.
 ---
 ## Global
 
-This is a collection of international dataset sources. Many of the datasets for the United States of America (USA) host data for many parts of the world, particularly NASA, NOAA, and USGS.
-The subject of the datasets here are quite numerous and variable in both content type and volume, covering everything from science, technology, economics, finance, social science, and so on.
+This is a collection of datasets from around the world. Many of the datasets for the USA host data for other parts of the world, particularly NASA, NOAA, and USGS.
+The datasets here are quite numerous and variable in both content type and volume, covering everything from science, technology, economics, finance, social science, and more.
 
 - [<b>Awesome - Everything</b>](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
 - [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
-- [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious aren't fruitful.
+- [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious sources aren't fruitful.
 - [Amazon Web Service (AWS) Registry of Open Data](https://registry.opendata.aws/) - discover and share datasets that are available via AWS resources (landsat, genome, weather, medical, etc.).
 - [DIVA-GIS](http://www.diva-gis.org/gdata) - global data for administrative boundaries, roads, elevation, landcover, population, climate, inland water, and gazetteer.
 - [Data Basin – Conservation Biology Institute](https://databasin.org/) - science-based mapping and analysis platform that supports learning, research, and sustainable environmental stewardship.
 - [EarthWindMap – NullSchool](https://earth.nullschool.net/) - beautiful interactive web map that depicts global wind, water, weather and climate data.
 - [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/) - a repository of links to weather, climate, elevation, land/ocean, geography, geology and the like. Quite extensive, another decent place to start searching for data.
 - [Google Earth Engine](https://developers.google.com/earth-engine/datasets/) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
+- [GIS Geography](https://gisgeography.com/category/data-sources/) - a mixed bag of data sources, educational materials, and software.
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/data-access) - access to weather and water datasets across the USA.
 - [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html) - makes data from geological data providers around the world accessible to those who would like to see and use it.
 - [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world’s largest problems.
@@ -165,16 +171,18 @@ The subject of the datasets here are quite numerous and variable in both content
 - [EarthExplorer](https://earthexplorer.usgs.gov/) - web map interface and filter tool for find remote sensing data (TIFF, KML, shapefiles).
 - [National Burn Severity Mapping Project (USA)](https://burnseverity.cr.usgs.gov/) - provides comprehensive access to federal burn severity data.
 - [National Map (USA)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) - a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the USA.
-- [Remote Land Sensing and Landsat](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) - real-time GIS data for many fields (volcanoes, )
+- [Remote Land Sensing and Landsat (USA)](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) - information derived from Landsat data support government, commercial, industrial, civilian, military, and educational communities throughout the world. 
 - [ScienceBase](https://www.sciencebase.gov/catalog/community/list) - a very extensive data repository for information on everything from geological, biological, marine and more. 
 
 
 ---
-## Other useful stuff
-The links here are mostly for reference and includes educational material, the most common places to get advice and troubleshoot, useful tutorials, and developer tools.
+## Other
+The links here are mostly for reference and includes educational material, popular forums for troubleshooting, useful tutorials, and developer tools.
+Very incomplete, much to add.
+
 
 ###### Communities
-- [ArcGIS Community](https://community.esri.com) - ESRI's official forum.
+- [ArcGIS Community](https://community.esri.com) - ESRI's official support forum.
 - [GIS StackExchange](https://gis.stackexchange.com/) - a place for all your troubleshooting needs relating to all things GIS, primary forum for QGIS.
 - [ArcGIS on Reddit](https://www.reddit.com/r/arcgis/) - community dedicated to the discussion of all things ArcGIS.
 - [GIS on Reddit](https://www.reddit.com/r/gis/) - community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
@@ -198,7 +206,8 @@ The links here are mostly for reference and includes educational material, the m
 
 
 ###### Developer Education
-A list of learning materials for learning how to program in Python. I would recommend starting at the [<b>GIS Programming Roadmap</b>](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) is a decent place to keep track of your dev journey and find more advanced tools. The <b>Think Python<b> text offers a pretty gentle introduction into the Python programming language.
+A list of learning materials for learning how to program in Python and using that knowledge for data science applications. I would recommend starting at the GIS Programming Roadmap as it is a decent place to keep track of your dev journey and to find more advanced tools.
+The <b>Think Python<b> text offers a pretty gentle introduction into the Python programming language.
 - [Data Science in Python](https://greenteapress.com/wp/) - free texts for data science programming in Python.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - free textbook on the popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
@@ -210,6 +219,7 @@ A list of learning materials for learning how to program in Python. I would reco
 ###### Servers &amp; Tools
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
 - [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
+
 
 ###### Reference
 - [ArcGIS Shapefile types and extensions](https://gisgeography.com/arcgis-shapefile-files-types-extensions/) - explains the function of the ArcGIS extensions like .dbf or .sbn.
