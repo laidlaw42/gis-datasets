@@ -27,8 +27,7 @@
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
 * [Other](#other)
     * [Communities](#communities)
-    * [ArcGIS](#esri-arcgis)
-    * [QGIS](#qgis)
+    * [GIS Software](#gis-software)
     * [Developer Education](#developer-education)
     * [Reference](#reference)
 
@@ -193,14 +192,12 @@ Very incomplete, much to add.
 - [QGIS on Reddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
 
 
-###### ESRI ArcGIS
+###### GIS Software
   [ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
 - [ArcMap](https://desktop.arcgis.com/en/arcmap/) - the functions and concepts in ArcMap.
 - [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
 - [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about ArcGIS and GIS in general.
 
-
-###### QGIS
   [QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
 - [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.htmlP) - a gentle introduction to GIS concepts.
 - [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
