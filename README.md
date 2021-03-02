@@ -27,7 +27,7 @@
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
 * [Other](#other)
     * [Communities](#communities)
-    * [GIS Software](#gis-software)
+    * [Software](#software)
     * [Developer Education](#developer-education)
     * [Reference](#reference)
 
@@ -192,7 +192,7 @@ Very incomplete, much to add.
 - [QGIS on Reddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
 
 
-###### GIS Software
+###### Software
 
 [ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
 - [ArcMap](https://desktop.arcgis.com/en/arcmap/) - the functions and concepts in ArcMap.
