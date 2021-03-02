@@ -193,12 +193,14 @@ Very incomplete, much to add.
 
 
 ###### GIS Software
-  [ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
+
+[ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
 - [ArcMap](https://desktop.arcgis.com/en/arcmap/) - the functions and concepts in ArcMap.
 - [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
 - [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about ArcGIS and GIS in general.
+  
 
-  [QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
+[QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
 - [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.htmlP) - a gentle introduction to GIS concepts.
 - [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [QGIS - Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
