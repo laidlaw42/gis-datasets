@@ -209,8 +209,8 @@ Very incomplete, much to add.
 
 
 ###### Developer Education
-A list of learning materials for learning how to program in Python and using that knowledge for data science applications. I would recommend starting at the <b>GIS Programming Roadmap</b> as it is a decent place to keep track of your dev journey and to find more advanced tools.
-The <b>Think Python</b> text offers a pretty gentle introduction into the Python programming language.
+A list of learning materials for the Python programming language and how to use it for data science applications. I recommend starting at the <b>GIS Programming Roadmap</b> as it is a decent place to keep track of your dev journey and to find more advanced tools.
+The <b>Think Python</b> text offers a pretty gentle introduction into the Python.
 - [Data Science in Python](https://greenteapress.com/wp/) - free texts for data science programming in Python.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - free textbook on the popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
