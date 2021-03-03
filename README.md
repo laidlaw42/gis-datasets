@@ -62,6 +62,7 @@ All the datasets here are sourced from Australian government agencies.
 - [Data &amp; Publications](https://www.ga.gov.au/data-pubs) - central repository for many GA products.
 - [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/) - national bushfire monitoring system that provides timely information about hotspots to emergency service managers and critical infrastructure providers across Australia.
 - [Digital Elevation (DEM)](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data) - digital elevation data which describes Australia's landforms and seabed.
+- [National Surface Water](https://www.ga.gov.au/scientific-topics/national-location-information/national-surface-water-information) - spatial location, relationships and characteristics of the hydrological features: the catchments, streams, aquifers, storages, wetlands and man-made structures that make up the hydrological system.
 - [Earthquakes](https://earthquakes.ga.gov.au/) - monitors, analyses and reports on significant earthquakes.
 - [Interactive Maps](http://maps.ga.gov.au/interactive-maps/#/) - Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water.
 - [Product catalogue (eCat)](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/) - includes GA records, professional opinions, reports, scientific papers, promotional material and presentations. 
