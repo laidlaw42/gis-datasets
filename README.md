@@ -80,6 +80,7 @@ All the datasets here are sourced from Australian government agencies.
 - [AuScope Apps](http://avre.auscope.org/store) - ARDC IGSN Minting Service, AuScope Portal, AusPASS, Seismic Network Design App, 3D Geological Models, MT and Underworld training, VGL.
 - [Bureau of Meteorlogy (BOM)](http://www.bom.gov.au/climate/data-services/) - weather, climate, and oceans data.
 - [CorStruth](http://www.corstruth.com.au/) - hylogger Core Log Data
+- [Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/) - here you can download point cloud and elevation datasets sourced from jurisdictions. 
 - [Intergovernmental Committee on Surveying and Mapping (ICSM)](http://icsm.gov.au/) - they do a lot, and have lots of information about data.
 - [MinEx CRC](https://minexcrc.com.au/) - information about the nationwide MinEx CRC project.
 
