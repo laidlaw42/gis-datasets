@@ -221,7 +221,7 @@ The <b>Think Python</b> text offers a pretty gentle introduction into the Python
 
 
 ###### Servers &amp; Tools
-- [Draw.io](https://app.diagrams.net/) - web-based flowchart and diagram making tool, there is also an [offline](https://app.diagrams.net/app) version.
+- [Diagrams.net (prev. draw.io)](https://app.diagrams.net/) - web-based flowchart and diagram making tool, there is also an [offline](https://app.diagrams.net/app) version.
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
 - [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
 
