@@ -27,8 +27,7 @@
     * [United States Geological Survey (USGS)](#united-states-geological-survey-usgs)
 * [Other](#other)
     * [Communities](#communities)
-    * [ArcGIS](#esri-arcgis)
-    * [QGIS](#qgis)
+    * [Software](#software)
     * [Developer Education](#developer-education)
     * [Reference](#reference)
 
@@ -63,6 +62,7 @@ All the datasets here are sourced from Australian government agencies.
 - [Data &amp; Publications](https://www.ga.gov.au/data-pubs) - central repository for many GA products.
 - [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/) - national bushfire monitoring system that provides timely information about hotspots to emergency service managers and critical infrastructure providers across Australia.
 - [Digital Elevation (DEM)](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data) - digital elevation data which describes Australia's landforms and seabed.
+- [National Surface Water](https://www.ga.gov.au/scientific-topics/national-location-information/national-surface-water-information) - spatial location, relationships and characteristics of the hydrological features: the catchments, streams, aquifers, storages, wetlands and man-made structures that make up the hydrological system.
 - [Earthquakes](https://earthquakes.ga.gov.au/) - monitors, analyses and reports on significant earthquakes.
 - [Interactive Maps](http://maps.ga.gov.au/interactive-maps/#/) - Earth observation satellites, location, geology, geophysics, hazards, marine, coastal, and water.
 - [Product catalogue (eCat)](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/home/) - includes GA records, professional opinions, reports, scientific papers, promotional material and presentations. 
@@ -193,15 +193,15 @@ Very incomplete, much to add.
 - [QGIS on Reddit](https://www.reddit.com/r/qgis/) - community dedicated to the discussion of all things QGIS.
 
 
-###### ESRI ArcGIS
-  [ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
+###### Software
+
+[ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
 - [ArcMap](https://desktop.arcgis.com/en/arcmap/) - the functions and concepts in ArcMap.
 - [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
 - [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about ArcGIS and GIS in general.
+  
 
-
-###### QGIS
-  [QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
+[QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
 - [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.htmlP) - a gentle introduction to GIS concepts.
 - [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [QGIS - Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
@@ -210,8 +210,8 @@ Very incomplete, much to add.
 
 
 ###### Developer Education
-A list of learning materials for learning how to program in Python and using that knowledge for data science applications. I would recommend starting at the GIS Programming Roadmap as it is a decent place to keep track of your dev journey and to find more advanced tools.
-The <b>Think Python<b> text offers a pretty gentle introduction into the Python programming language.
+A list of learning materials for the Python programming language and how to use it for data science applications. I recommend starting at the <b>GIS Programming Roadmap</b> as it is a decent place to keep track of your dev journey and to find more advanced tools.
+The <b>Think Python</b> text offers a pretty gentle introduction into the Python.
 - [Data Science in Python](https://greenteapress.com/wp/) - free texts for data science programming in Python.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - free textbook on the popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
