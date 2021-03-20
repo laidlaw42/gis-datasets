@@ -148,6 +148,7 @@ The datasets here are quite numerous and variable in both content type and volum
 
 - [<b>Awesome - Everything</b>](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
 - [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
+- [<b>Awesome = Geospatial</b>](https://github.com/KLabp/Awesome-Geospatial) - Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect.
 - [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious sources aren't fruitful.
 - [Amazon Web Service (AWS) Registry of Open Data](https://registry.opendata.aws/) - discover and share datasets that are available via AWS resources (landsat, genome, weather, medical, etc.).
 - [DIVA-GIS](http://www.diva-gis.org/gdata) - global data for administrative boundaries, roads, elevation, landcover, population, climate, inland water, and gazetteer.
