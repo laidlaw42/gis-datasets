@@ -205,7 +205,7 @@ Very incomplete, much to add.
   
 
 [QGIS](https://www.qgis.org) is a **free** and open source geographic information system made by volunteers.
-- [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.htmlP) - a gentle introduction to GIS concepts.
+- [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.html) - a gentle introduction to GIS concepts.
 - [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [QGIS - Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
 - [QGIS - Spatial Exploration](https://www.youtube.com/watch?v=j3cjMXYa63I) - slope &amp; aspect modelling tutorial on Youtube.
