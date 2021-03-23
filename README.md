@@ -138,7 +138,7 @@ All the datasets here are sourced from Australian government agencies.
 ###### Northern Territory Geological Survey (NTGS)
 - [Geoscience Exploration and Mining Information System (GEMIS)](https://geoscience.nt.gov.au/gemis/) - access to almost everything including: geophysical and remote sensing data, hylogger, WMS, geotechnical and mine reports, and drillcore library.
 - [Mining and petroleum ](https://nt.gov.au/industry/mining-and-petroleum) - central repository for NT datasets. 
-
+- [Spatial Territory Resource Information Kit for Exploration (STRIKE)](http://strike.nt.gov.au/) - a web-mapping application for geoscientific data and minerals and energy tenure information in the NT. Contains up-to-date information for: title applications, granted titles and reserved areas, geology including drilling and geochemistry, geophysical images and remote sensing, mineral occurrences, indexes to open file reports and geophysical surveys.
 
 ---
 ## Global
