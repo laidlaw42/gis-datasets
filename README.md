@@ -2,9 +2,9 @@
 
 
 ---
-<p align="center">
-<img src="https://i.imgur.com/a0v51XN.jpg">
-</p>
+<div style="text-align: center;">
+<img src="https://i.imgur.com/a0v51XN.jpg" alt="">
+</div>
 
 
 ---
@@ -57,7 +57,7 @@ All the datasets here are sourced from Australian government agencies.
 
 ###### Geoscience Australia (GA)
 - [AusAEM](http://www.ga.gov.au/eftf/minerals/nawa/ausaem) - access to airborne electromagnetic surveys.
-- [Australian Geoscience Information Network (AUSGIN)](http://www.geoscience.gov.au/) - data discovery and analysis portal for geoscience and mineral resources data from all of Australia's state, territory and federal governments.
+- [Australian Geoscience Information Network (AUSGIN)](http://www.geoscience.gov.au/) - data discovery and analysis portal for geoscience and mineral resource data from all of Australia's state, territory and federal governments.
 - [Bathymetry](http://www.ga.gov.au/scientific-topics/marine/survey-techniques/bathymetry) - Australia-wide bathymetric data and general information.
 - [Data &amp; Publications](https://www.ga.gov.au/data-pubs) - central repository for many GA products.
 - [Digital Earth Australia Hotspots](https://hotspots.dea.ga.gov.au/) - national bushfire monitoring system that provides timely information about hotspots to emergency service managers and critical infrastructure providers across Australia.
@@ -87,12 +87,12 @@ All the datasets here are sourced from Australian government agencies.
 
 ## State Geological Surveys
 ###### Geological Survey of NSW (GSNSW)
-- [<b>Digital Imaging of Geological System (DIGS)</b>](https://search.geoscience.nsw.gov.au/) - DIGS is a public, online archive that provides access to non-confidential reports and other important documentary material held by the GSNSW
+- [**Digital Imaging of Geological System (DIGS)**](https://search.geoscience.nsw.gov.au/) - DIGS is a public, online archive that provides access to non-confidential reports and other important documentary material held by the GSNSW
 - [Drillcore Library (Londonderry)](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/drill-core-libraries/londonderry-drillcore-library) - information for access to drillcore data and free physical access to drillcore.
 - [Geoscience Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/services/online-services) - online services at GSNSW.
 - [Geophysical images and data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geophysical-images-and-data) - information for accessing geophysical images and data.
 - [GIS Web Services](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data) - server addresses for Web Map Services (WMS), Web Map Tile Services (WMTS) and Web Feature Services (WFS)
-- [<b>MinView</b>](https://minview.geoscience.nsw.gov.au/) - very extensive and fast web map tool for accessing NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
+- [**MinView**](https://minview.geoscience.nsw.gov.au/) - very extensive and fast web map tool for accessing NSW geological data, displays resource locations, mining titles, soils, geotechnical data etc.
 - [Spatial Information Exchange (SIX)](https://six.nsw.gov.au/) - provides the spatial and cadastral products and services previously accessed from SIX.
 - [Sharing and Enabling Environmental Data (SEED)](https://www.seed.nsw.gov.au/) - SEED is the NSW Government’s central resource for Sharing and Enabling Environmental Data.
 
@@ -105,7 +105,7 @@ All the datasets here are sourced from Australian government agencies.
 
 
 ###### Geological Survey of South Australia (GSSA)
-- [<b>South Australian Resource Information Gateway (SARIG)</b>](https://map.sarig.sa.gov.au/) - web map for accessing South Australian geoscientific and geospatial data.
+- [**South Australian Resource Information Gateway (SARIG)**](https://map.sarig.sa.gov.au/) - web map for accessing South Australian geoscientific and geospatial data.
 - [3D geological models](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/3d_geological_models) - 3D geological models.
 - [Exploration data releases](https://energymining.sa.gov.au/minerals/exploration/exploration_data_releases) - exploration data newly indexed in SARIG.
 - [Geological maps](http://energymining.sa.gov.au/minerals/geoscience/geoscientific_data/maps) - access to printable physical maps. 
@@ -146,10 +146,10 @@ This is a collection of datasets from around the world. Many of the datasets for
 The datasets here are quite numerous and variable in both content type and volume, covering everything from science, technology, economics, finance, social science, and more.
 
 
-- [<b>Awesome - Everything</b>](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
-- [<b>Awesome - Big Data</b>](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
-- [<b>Awesome = Geospatial</b>](https://github.com/KLabp/Awesome-Geospatial) - Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect.
-- [<b>Awesome - Public Datasets</b>](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious sources aren't fruitful.
+- [**Awesome - Everything**](https://github.com/sindresorhus/awesome) - <i>the</i> central awesome list. Ctrl+F or Cmd+F will be your best friend here.
+- [**Awesome - Big Data**](https://github.com/onurakpolat/awesome-bigdata#readme/) - huge list on big data.
+- [**Awesome - Geospatial**](https://github.com/KLabp/Awesome-Geospatial) - Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect.
+- [**Awesome - Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious sources aren't fruitful.
 - [Amazon Web Service (AWS) Registry of Open Data](https://registry.opendata.aws/) - discover and share datasets that are available via AWS resources (landsat, genome, weather, medical, etc.).
 - [DIVA-GIS](http://www.diva-gis.org/gdata) - global data for administrative boundaries, roads, elevation, landcover, population, climate, inland water, and gazetteer.
 - [Data Basin – Conservation Biology Institute](https://databasin.org/) - science-based mapping and analysis platform that supports learning, research, and sustainable environmental stewardship.
@@ -160,7 +160,7 @@ The datasets here are quite numerous and variable in both content type and volum
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/data-access) - access to weather and water datasets across the USA.
 - [OneGeology – Geoscience data](http://www.onegeology.org/use/home.html) - makes data from geological data providers around the world accessible to those who would like to see and use it.
 - [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world’s largest problems.
-- [Science on a Sphere](https://sos.noaa.gov/What_is_SOS/) - a room sized, global display system that uses computers and video projectors to display planetary data onto a six foot diameter sphere, analogous to a giant animated globe. More interesting than useful.
+- [Science on a Sphere](https://sos.noaa.gov/What_is_SOS/) - a room sized, global display system that uses computers and video projectors to display planetary data onto a six-foot diameter sphere, analogous to a giant animated globe. More interesting than useful.
 - [Sentinel – EO Browser](https://apps.sentinel-hub.com/eo-browser/) - interactive web map for locating satellite and remote sensing data.
 - [United States Drought Monitor](https://droughtmonitor.unl.edu/) - USA drought datasets and pre-made maps.
 - [VIIRS – Active Fire Global Map](http://viirsfire.geog.umd.edu/map/viirsMap.php) - interactive web map depicting global active fires.
@@ -170,7 +170,7 @@ The datasets here are quite numerous and variable in both content type and volum
 - [NASA Open APIs](https://api.nasa.gov/) - makes NASA data, including imagery, eminently accessible to application developers. 
 - [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) - global maps for vegetation, radiation, rainfall, snow cover, fire, land/sea surface temperature, chlorophyll, carbon monoxide, radiation, and more.
 - [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/) - interactive web map for finding satellite and remote sensor data.
-- [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/) - FIRMS) distributes Near Real-Time (NRT) active fire data within 3 hours of satellite observation from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP and NOAA 20 (formally known as JPSS-1)
+- [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/) - FIRMS distributes Near Real-Time (NRT) active fire data within 3 hours of satellite observation from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP and NOAA 20 (formerly known as JPSS-1)
 
 
 ###### United States Geological Survey (USGS)
@@ -198,13 +198,13 @@ Very incomplete, much to add.
 
 ###### Software
 
-[ArcGIS](https://www.arcgis.com/) is a <b>paid</b> and closed source geographic information system by ESRI.
+[ArcGIS](https://www.arcgis.com/) is a **paid** and closed source geographic information system by ESRI.
 - [ArcMap](https://desktop.arcgis.com/en/arcmap/) - the functions and concepts in ArcMap.
 - [Learn ArcGIS](https://learn.arcgis.com/en/) - a decent place to start learning ArcGIS.
 - [The ArcGIS Book](https://learn.arcgis.com/en/arcgis-book/#home-overview) - both a learning and teaching product for learning about ArcGIS and GIS in general.
   
 
-[QGIS](https://www.qgis.org) is a <b>free</b> and open source geographic information system made by volunteers.
+[QGIS](https://www.qgis.org) is a **free** and open source geographic information system made by volunteers.
 - [An Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.htmlP) - a gentle introduction to GIS concepts.
 - [QGIS Documentation](https://docs.qgis.org/) - all versions of the documentation can be found here.
 - [QGIS - Open Source Options](https://www.youtube.com/channel/UCOSeGDrlScCNgBcN5C8nTEw) - decent channel for QGIS tutorials on Youtube.
@@ -213,8 +213,8 @@ Very incomplete, much to add.
 
 
 ###### Developer Education
-A list of learning materials for the Python programming language and how to use it for data science applications. I recommend starting at the <b>GIS Programming Roadmap</b> as it is a decent place to keep track of your dev journey and to find more advanced tools.
-The <b>Think Python</b> text offers a pretty gentle introduction into the Python.
+A list of learning materials for the Python programming language and how to use it for data science applications. I recommend starting at the **GIS Programming Roadmap** as it is a decent place to keep track of your dev journey and to find more advanced tools.
+The **Think Python** text offers a pretty gentle introduction into the Python.
 - [Data Science in Python](https://greenteapress.com/wp/) - free texts for data science programming in Python.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - free textbook on the popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) - free geo-centric Python programming course.
@@ -227,6 +227,7 @@ The <b>Think Python</b> text offers a pretty gentle introduction into the Python
 - [Diagrams.net (prev. draw.io)](https://app.diagrams.net/) - web-based flowchart and diagram making tool, there is also an [offline](https://app.diagrams.net/app) version.
 - [Geoserver](http://geoserver.org/) - Java-based software server that allows users to view and edit geospatial data.
 - [Turf](https://github.com/Turfjs/turf) - a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
+- [**Awesome - Geospatial**](https://github.com/KLabp/Awesome-Geospatial) - a repeat entry because it's so awesome.
 
 
 ###### Reference
