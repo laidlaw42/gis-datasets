@@ -155,6 +155,7 @@ The datasets here are quite numerous and variable in both content type and volum
 - [Data Basin – Conservation Biology Institute](https://databasin.org/) - science-based mapping and analysis platform that supports learning, research, and sustainable environmental stewardship.
 - [EarthWindMap – NullSchool](https://earth.nullschool.net/) - beautiful interactive web map that depicts global wind, water, weather and climate data.
 - [Free GIS Datasets – Categorised List](http://freegisdata.rtwilson.com/) - a repository of links to weather, climate, elevation, land/ocean, geography, geology and the like. Quite extensive, another decent place to start searching for data.
+- [GADM - Database of Global Administrative Areas](https://gadm.org/index.html) -  is a high-resolution database of country administrative areas, with a goal of "all countries, at all levels, at any time period.
 - [Google Earth Engine](https://developers.google.com/earth-engine/datasets/) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
 - [GIS Geography](https://gisgeography.com/category/data-sources/) - a mixed bag of data sources, educational materials, and software.
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/data-access) - access to weather and water datasets across the USA.
@@ -221,6 +222,7 @@ The **Think Python** text offers a pretty decent introduction into the Python.
 - [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - repository lays out a path to take someone with no GIS experience to a proficient GIS developer.
 - [Python for GIS progression path](https://github.com/AlexArcPy/python-for-gis-progression-path) - progression path for a GIS analyst who wants to become proficient in using Python for GIS: from apprentice to guru
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) - a good introductory text to learning Python.
+- [Earth Data Science Courses](https://www.earthdatascience.org/courses/) - topics covering everything from programming, remote sensing, and analytics.
 
 
 ###### Servers &amp; Tools
