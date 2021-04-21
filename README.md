@@ -71,6 +71,8 @@ All the datasets here are sourced from Australian government agencies.
 
 ###### Miscellaneous
 - [Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)](https://www.agriculture.gov.au/abares/data) - ABARES produce tools, models, data and metadata to help agricultural, fisheries and forestry industries make decisions.
+- [Australian Bureau of Statistics(ABS) data by region](https://dbr.abs.gov.au/) - Australia's core source of statistical data, particularly census data.
+- [ABS geopackages](https://datapacks.censusdata.abs.gov.au/geopackages/) - DataPacks is suitable for experienced Census data users who have their own database or analysis systems. They contain data for all Census geographies from Australia down to Statistical Area Level 1.  
 - [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/) - peak intergovernmental organisation providing leadership in the collection, management and use of spatial information in Australia and New Zealand.
 - [Australian Antarctic Data Centre](https://data.aad.gov.au/) - repository for Antarctica datasets.
 - [Australian Government – Spatial information](https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information) - repository for national spatial data.
@@ -80,6 +82,7 @@ All the datasets here are sourced from Australian government agencies.
 - [AuScope Apps](http://avre.auscope.org/store) - ARDC IGSN Minting Service, AuScope Portal, AusPASS, Seismic Network Design App, 3D Geological Models, MT and Underworld training, VGL.
 - [Bureau of Meteorlogy (BOM)](http://www.bom.gov.au/climate/data-services/) - weather, climate, and oceans data.
 - [CorStruth](http://www.corstruth.com.au/) - hylogger Core Log Data
+- [Data NSW](https://data.nsw.gov.au/) - Central repository for connecting to NSW data of all types.
 - [Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/) - here you can download point cloud and elevation datasets sourced from jurisdictions. 
 - [Intergovernmental Committee on Surveying and Mapping (ICSM)](http://icsm.gov.au/) - they do a lot, and have lots of information about data.
 - [MinEx CRC](https://minexcrc.com.au/) - information about the nationwide MinEx CRC project.
@@ -151,6 +154,7 @@ The datasets here are quite numerous and variable in both content type and volum
 - [**Awesome - Geospatial**](https://github.com/KLabp/Awesome-Geospatial) - Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect.
 - [**Awesome - Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) - quite extensive list of public datasets, a very good place to start searching if the obvious sources aren't fruitful.
 - [Amazon Web Service (AWS) Registry of Open Data](https://registry.opendata.aws/) - discover and share datasets that are available via AWS resources (landsat, genome, weather, medical, etc.).
+- [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) - free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and Sentinel-5P user products. 
 - [DIVA-GIS](http://www.diva-gis.org/gdata) - global data for administrative boundaries, roads, elevation, landcover, population, climate, inland water, and gazetteer.
 - [Data Basin – Conservation Biology Institute](https://databasin.org/) - science-based mapping and analysis platform that supports learning, research, and sustainable environmental stewardship.
 - [EarthWindMap – NullSchool](https://earth.nullschool.net/) - beautiful interactive web map that depicts global wind, water, weather and climate data.
@@ -168,15 +172,20 @@ The datasets here are quite numerous and variable in both content type and volum
 
 
 ###### National Aeronautics and Space Administration (NASA)
-- [NASA Open APIs](https://api.nasa.gov/) - makes NASA data, including imagery, eminently accessible to application developers. 
 - [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) - global maps for vegetation, radiation, rainfall, snow cover, fire, land/sea surface temperature, chlorophyll, carbon monoxide, radiation, and more.
-- [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/) - interactive web map for finding satellite and remote sensor data.
+- [EOSDIS - Search Data](https://search.earthdata.nasa.gov/search) - Earth Observing System Data and Information System (EOSDIS) consists of numerous NASA datasets from satellites, aircraft, field measurements, and various other programs. Sentinel, LANDSAT, etc. [More Information](https://earthdata.nasa.gov/eosdis)
+- [EOSDIS - Worldview](https://worldview.earthdata.nasa.gov/) - interactive web map for finding satellite and remote sensor data.
+- [Earth Science Data Systems (ESDS) Program](https://earthdata.nasa.gov/esds) - links to other datasets here. oversees the life cycle of NASA’s Earth science data—from acquisition through processing and distribution. The primary goal of ESDS is to maximize the scientific return from NASA's missions and experiments for research and applied scientists, decision makers, and society at large.
 - [FIRMS: Active Fire Data](https://firms.modaps.eosdis.nasa.gov/) - FIRMS distributes Near Real-Time (NRT) active fire data within 3 hours of satellite observation from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP and NOAA 20 (formerly known as JPSS-1)
+- [NASA Earth Observations (NEO)](https://neo.sci.gsfc.nasa.gov/) - NEO provides the ability for users to download CSV and floating point GEOTiff files for datasets. Browse and download imagery of satellite data from NASA's constellation of Earth Observing System satellites. 
+- [Open APIs](https://api.nasa.gov/) - makes NASA data, including imagery, eminently accessible to application developers.
 
 
 ###### United States Geological Survey (USGS)
+- [Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS)](https://lpdaacsvc.cr.usgs.gov/appeears/) - offers a simple and efficient way to access and transform geospatial data from a variety of federal data archives. AρρEEARS enables users to subset geospatial datasets using spatial, temporal, and band/layer parameters. 
 - [Data and Tools](https://www.usgs.gov/products/data-and-tools/real-time-data) - real-time data, APIs, catalogues, datasets, and tools.
 - [EarthExplorer](https://earthexplorer.usgs.gov/) - web map interface and filter tool for find remote sensing data (TIFF, KML, shapefiles).
+- [Global Visualization Viewer (GloVis)](https://glovis.usgs.gov/) - sed to easily view, order, and download remotely sensed data including: Landsat, IRS AWiFS, Orbview, Sentinel-2, Global Land Survey, EO-1, DOQ.
 - [National Burn Severity Mapping Project (USA)](https://burnseverity.cr.usgs.gov/) - provides comprehensive access to federal burn severity data.
 - [National Map (USA)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) - a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the USA.
 - [Remote Land Sensing and Landsat (USA)](https://www.usgs.gov/products/data-and-tools/real-time-data/remote-land-sensing-and-landsat) - information derived from Landsat data support government, commercial, industrial, civilian, military, and educational communities throughout the world. 
