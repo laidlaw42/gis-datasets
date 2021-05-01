@@ -29,17 +29,17 @@
 
 ####### Sub-heading (1)
 >>>Sub-heading spiel (if applicable)<<<
-- [Link-1](URL) - description
-- [Link-2](URL) - description
-- [Link-3](URL) - description
-- [Link-4](URL) - description
+- [Link-1](URL) — description
+- [Link-2](URL) — description
+- [Link-3](URL) — description
+- [Link-4](URL) — description
 
 
 ####### Sub-heading (2)
-- [Link-5](URL) - description
-- [Link-6](URL) - description
-- [Link-7](URL) - description
-- [Link-8](URL) - description
+- [Link-5](URL) — description
+- [Link-6](URL) — description
+- [Link-7](URL) — description
+- [Link-8](URL) — description
 
 
 ---
@@ -48,14 +48,14 @@
 
 ####### Sub-heading (3)
 >>>Sub-heading spiel (if applicable)<<<
-- [Link-9](URL) - description
-- [Link-10](URL) - description
-- [Link-11](URL) - description
-- [Link-12](URL) - description
+- [Link-9](URL) — description
+- [Link-10](URL) — description
+- [Link-11](URL) — description
+- [Link-12](URL) — description
 
 
 ####### Sub-heading (4)
-- [Link-13](URL) - description
-- [Link-14](URL) - description
-- [Link-15](URL) - description
-- [Link-16](URL) - description
+- [Link-13](URL) — description
+- [Link-14](URL) — description
+- [Link-15](URL) — description
+- [Link-16](URL) — description
