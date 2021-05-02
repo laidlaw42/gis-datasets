@@ -3,7 +3,7 @@
 
 ---
 <div style="text-align: center;">
-<img src="https://i.imgur.com/a0v51XN.jpg" alt="">
+<img src="https://i.imgur.com/a0v51XN.jpg" alt="Image source: NASA">
 </div>
 
 
@@ -34,13 +34,13 @@
  
 ---
 ## Introduction
-This repository is a curated list of GIS (Geographic Information Systems) and remote sensing links that connect you to downloadable datasets on the web relatively quickly.
+This repository provides a curated list of GIS (Geographic Information Systems) and remote sensing links that connect you to downloadable datasets on the web relatively quickly.
 
 It also includes some links to web and developer tools, educational material, general reference texts, and documentation.
 
-Most of my effort will be in adding Australian data sources with an emphasis on geoscience and geospatial data at present. The descriptions after each link should tell you what you need to know and are (mostly) tagged with the relevant information or acronyms. Search terms within the browser as usual (Win: Ctrl+F, Mac: Cmd+F).
+Most of my effort will be in adding Australian data sources with an emphasis on geoscience and geospatial data. The descriptions after each link should tell you what you need to know, and they are (mostly) tagged with the relevant information or acronyms.
 
-This is a work-in-progress, please feel free to contribute or comment on any errors I have made.
+This project is a work-in-progress, please feel free to contribute or comment on any errors I have made.
 
 
 ---
@@ -72,8 +72,8 @@ All the datasets here are sourced from Australian government agencies.
 ###### Miscellaneous
 - [Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES)](https://www.agriculture.gov.au/abares/data) — ABARES produce tools, models, data, and metadata to help agricultural, fisheries and forestry industries make decisions.
 - [Australian Bureau of Statistics(ABS) data by region](https://dbr.abs.gov.au/) — Australia's core source of statistical data, particularly census data.
-- [ABS geopackages](https://datapacks.censusdata.abs.gov.au/geopackages/) — DataPacks is suitable for experienced Census data users who have their own database or analysis systems. They contain data for all Census geographies from Australia down to Statistical Area Level 1.  
-- [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/) — peak intergovernmental organisation providing leadership in the collection, management, and use of spatial information in Australia and New Zealand.
+- [ABS geopackages](https://datapacks.censusdata.abs.gov.au/geopackages/) — suitable for experienced Census data users who have their own database or analysis systems. They contain data for all Census geographies from Australia down to Statistical Area Level 1.  
+- [ANZLIC – Spatial Information Council](https://www.anzlic.gov.au/) — peak intergovernmental organisation providing leadership in the collection, management, and spatial information in Australia and New Zealand.
 - [Australian Antarctic Data Centre](https://data.aad.gov.au/) — repository for Antarctica datasets.
 - [Australian Government – Spatial information](https://www.australia.gov.au/information-and-services/business-and-industry/science-and-technology/spatial-information) — repository for national spatial data.
 - [Australian Government – data.gov.au](https://data.gov.au/) — an easy way to find, explore and reuse Australia's public data.
@@ -182,7 +182,7 @@ The datasets here are numerous and variable in both content type and volume, cov
 
 
 ###### United States Geological Survey (USGS)
-- [Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS)](https://lpdaacsvc.cr.usgs.gov/appeears/) — offers a simple and efficient way to access and transform geospatial data from a variety of federal data archives. AρρEEARS enables users to subset geospatial datasets using spatial, temporal, and band/layer parameters. 
+- [Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS)](https://lpdaacsvc.cr.usgs.gov/appeears/) — offers a simple and efficient way to access and transform geospatial data from many federal data archives. AρρEEARS enables users to subset geospatial datasets using spatial, temporal, and band/layer parameters. 
 - [Data and Tools](https://www.usgs.gov/products/data-and-tools/real-time-data) — real-time data, APIs, catalogues, datasets, and tools.
 - [EarthExplorer](https://earthexplorer.usgs.gov/) — web map interface and filter tool for find remote sensing data (TIFF, KML, shapefiles).
 - [Global Visualization Viewer (GloVis)](https://glovis.usgs.gov/) — easily view, order, and download remotely sensed data including: Landsat, IRS AWiFS, Orbview, Sentinel-2, Global Land Survey, EO-1, DOQ.
@@ -199,7 +199,7 @@ The links here are mostly for reference and includes educational material, popul
 
 ###### Communities
 - [ArcGIS Community](https://community.esri.com) — ESRI's official support forum.
-- [GIS StackExchange](https://gis.stackexchange.com/) — a place for all your troubleshooting needs relating to all things GIS, primary forum for QGIS.
+- [GIS StackExchange](https://gis.stackexchange.com/) — a place for all your troubleshooting needs about all things GIS, primary forum for QGIS.
 - [ArcGIS on Reddit](https://www.reddit.com/r/arcgis/) — community dedicated to the discussion of all things ArcGIS.
 - [GIS on Reddit](https://www.reddit.com/r/gis/) — community dedicated to everything GIS, check out their [wiki](https://www.reddit.com/r/gis/wiki/index).
 - [QGIS on Reddit](https://www.reddit.com/r/qgis/) — community dedicated to the discussion of all things QGIS.
@@ -234,7 +234,7 @@ The **Think Python** text offers a pretty decent introduction into the Python.
 
 
 ###### Servers &amp; Tools
-- [Diagrams.net (prev. draw.io)](https://app.diagrams.net/) — web-based flowchart and diagram making tool, there is also an [offline](https://app.diagrams.net/app) version.
+- [Diagrams.net (prev. draw.io)](https://app.diagrams.net/) — web-based flowchart and diagram making tool. It includes an [offline](https://app.diagrams.net/app) version too.
 - [Geoserver](http://geoserver.org/) — Java-based software server that allows users to view and edit geospatial data.
 - [Turf](https://github.com/Turfjs/turf) — a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
 - [**Awesome — Geospatial**](https://github.com/KLabp/Awesome-Geospatial) — a repeat entry because it is so awesome.
