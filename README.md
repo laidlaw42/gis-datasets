@@ -48,10 +48,10 @@ This project is a work-in-progress, please feel free to contribute or comment on
 All the datasets here are sourced from Australian government agencies. 
 
 ###### Commonwealth Scientific and Industrial Research Organisation (CSIRO)
-- [Oceans and Atmosphere — National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) — vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
-- [Australian Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) — best publicly available information on soil and land resources in a consistent format.
+- [Soil Classification](https://www.clw.csiro.au/aclep/asc_re_on_line_V2/soilhome.htm) — online facility for all interested parties to help with soil classification work.
 - [Soil and Landscape Grid of Australia](https://www.clw.csiro.au/aclep/soilandlandscapegrid/ProductDetails-SoilAttributes.html) — national soil attribute maps, 3D soil maps, regional soil maps.
-- [Australian Soil Classification](https://www.clw.csiro.au/aclep/asc_re_on_line_V2/soilhome.htm) — online facility for all interested parties to help with soil classification work.
+- [Soil Resource Information System (ASRIS)](https://www.asris.csiro.au/) — best publicly available information on soil and land resources in a consistent format.
+- [Oceans and Atmosphere — National Collections and Marine Infrastructure (NCMI)](https://research.csiro.au/ncmi-idc/) — vessel-collected (ship) data collected over the past 30 years, as well as such related datasets as those collected with moored instrument arrays (moorings) in the Australasian region.
 - [The Spectral Geologist](https://research.csiro.au/thespectralgeologist/) — industry standard tool for the mineralogical analysis of VIS/NIR/SWIR/MIR and TIR reflectance spectra.
 
 
