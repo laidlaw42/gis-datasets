@@ -223,7 +223,7 @@ The links here are mostly for reference and includes educational material, popul
 
 ###### Developer Education
 A list of learning materials for the Python programming language and how to use it for data science applications. I recommend starting at the **GIS Programming Roadmap** as it is a decent place to keep track of your dev journey and to find more advanced tools.
-The **Think Python** text offers a pretty decent introduction into the Python.
+The **Think Python** text offers a pretty decent introduction into Python but there are numerous resources out there.
 - [Data Science in Python](https://greenteapress.com/wp/) — free texts for data science programming in Python.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) — free textbook on the popular data analysis libraries in Python such as Numpy and Pandas.
 - [Geo-Python](https://geo-python.github.io/site/) — free geo-centric Python programming course.
