@@ -83,8 +83,9 @@ All the datasets here are sourced from Australian government agencies.
 - [Bureau of Meteorology (BOM)](http://www.bom.gov.au/climate/data-services/) — weather, climate, and oceans data.
 - [CorStruth](http://www.corstruth.com.au/) — hylogger Core Log Data
 - [Data NSW](https://data.nsw.gov.au/) — Central repository for connecting to NSW data of all types.
-- [Elevation and Depth — Foundation Spatial Data (ELVIS)](https://elevation.fsdf.org.au/) — here you can download point cloud and elevation datasets sourced from jurisdictions. 
+- [Elevation and Depth — Foundation Spatial Data (ELVIS)](https://elevation.fsdf.org.au/) — here you can download point cloud and elevation (DEM) datasets sourced from jurisdictions by the Intergovernmental Committee on Surveying and Mapping (ICSM).
 - [Intergovernmental Committee on Surveying and Mapping (ICSM)](http://icsm.gov.au/) — they do a lot, and have lots of information about data.
+- [Mecone Moasic](https://mecone.com.au/mosaic/) —  an online interactive mapping tool with street and satellite maps, cadastre data, planning controls, Greater Sydney strategic planning info, and much more. Provides basic info in NSW, VIC, QLD, and WA, with more to come.
 - [MinEx CRC](https://minexcrc.com.au/) — information about the nationwide MinEx CRC project.
 
 
