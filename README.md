@@ -234,6 +234,7 @@ The **Think Python** text offers a pretty decent introduction into Python but th
 
 
 ###### Servers &amp; Tools
+- [OpenTopography Tool Registry](https://portal.opentopography.org/tools/listTools) —  clearinghouse of software, utilities, and tools oriented towards high-resolution topography data (e.g. collected with lidar technology) handling, processing, and analysis.
 - [Diagrams.net (prev. draw.io)](https://app.diagrams.net/) — web-based flowchart and diagram making tool. It includes an [offline](https://app.diagrams.net/app) version too.
 - [Geoserver](http://geoserver.org/) — Java-based software server that allows users to view and edit geospatial data.
 - [Turf](https://github.com/Turfjs/turf) — a JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
